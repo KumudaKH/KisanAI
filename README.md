@@ -69,3 +69,23 @@ running cells that use client inputs requires separately authorized local files.
 
 This repository is organized to support future weekly additions. Week 1 results
 remain scoped to the government-data analysis above.
+
+## Week 3 — Crop Yield Prediction and Model Evaluation
+
+Week 3 trains four historical, crop-specific Random Forest models for Rice,
+Soybean, Cotton and Sugarcane. District names were standardized and
+previous-year yield was used as a lag feature.
+
+- **Historical records:** 4,916 cleaned records; 4,415 have valid lag features.
+- **Evaluation:** RMSE and MAPE.
+- **Model comparison:** Random Forest and Gradient Boosting were compared with
+  a previous-year yield baseline.
+- **Cotton Random Forest:** RMSE of 1.3449 bales/ha and MAPE of 41.75%.
+  Its RMSE is approximately 14.26% lower than the previous-year baseline.
+- **Remaining work:** Soil-type data and combined weather-plus-lag modelling
+  are still pending; the full client requirements are not yet complete.
+
+See the [Week 3 final checkpoint report](reports/week3_final_checkpoint_report.md),
+[model notebook](notebooks/02_crop_yield_models.ipynb),
+[cleaned lag-feature dataset](data/processed/district_annual_yield_lags_clean.csv),
+and [baseline comparison](reports/week3_baseline_comparison.csv).

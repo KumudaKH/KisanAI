@@ -1,0 +1,5 @@
+Crop,Train,Test,RMSE,MAPE (%),Unit
+Rice,1020,312,0.5816,23.04,Tonnes/ha
+Soybean,646,219,0.5849,38.14,Tonnes/ha
+Cotton,840,294,1.3449,41.75,Bales/ha
+Sugarcane,807,277,21.3894,25.59,Tonnes/ha

@@ -10,6 +10,7 @@ env/
 
 # Jupyter
 .ipynb_checkpoints/
+**/.jupyter/
 
 # Environment files and secrets
 .env
@@ -30,3 +31,4 @@ Thumbs.db
 /data/processed/agriculture_clean.csv
 /data/processed/disease_clean.csv
 /data/processed/market_clean.csv
+/data/external/

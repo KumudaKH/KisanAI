@@ -1,0 +1,5 @@
+Crop,ML_RMSE,Baseline_RMSE,ML_MAPE,Baseline_MAPE,RMSE_Winner
+Rice,0.5816,0.5521,23.04,23.14,Baseline
+Soybean,0.5849,0.4872,38.14,33.77,Baseline
+Cotton,1.3449,1.5686,41.75,57.87,ML
+Sugarcane,21.3894,18.1121,25.59,21.98,Baseline
