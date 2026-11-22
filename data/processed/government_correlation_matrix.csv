@@ -1,0 +1,4 @@
+,area_hectares,production_tonnes,yield_tonnes_per_hectare
+area_hectares,1.0,0.7862623487071558,0.14919754998286391
+production_tonnes,0.7862623487071558,1.0,0.5919802501204987
+yield_tonnes_per_hectare,0.14919754998286391,0.5919802501204987,1.0

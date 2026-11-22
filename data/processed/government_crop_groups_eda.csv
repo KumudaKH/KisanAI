@@ -1,0 +1,1154 @@
+state,district,crop_group,crop_year,area_hectares,production_tonnes,yield_tonnes_per_hectare
+Karnataka,Bagalkot,Cereals & Millets,2020-2021,210646.0,568045.0,2.7
+Karnataka,Bangalore rural,Cereals & Millets,2020-2021,69155.0,171664.0,2.48
+Karnataka,Belgaum,Cereals & Millets,2020-2021,527264.0,1477562.0,2.8
+Karnataka,Bellary,Cereals & Millets,2020-2021,440041.0,1612088.0,3.66
+Karnataka,Bengaluru urban,Cereals & Millets,2020-2021,19851.0,53636.0,2.7
+Karnataka,Bidar,Cereals & Millets,2020-2021,50656.0,56949.0,1.12
+Karnataka,Bijapur,Cereals & Millets,2020-2021,204271.0,379043.0,1.86
+Karnataka,Chamarajanagar,Cereals & Millets,2020-2021,69884.0,210195.0,3.01
+Karnataka,Chikballapur,Cereals & Millets,2020-2021,107409.0,331188.0,3.08
+Karnataka,Chikmagalur,Cereals & Millets,2020-2021,89918.0,174215.0,1.94
+Karnataka,Chitradurga,Cereals & Millets,2020-2021,181001.0,548472.0,3.03
+Karnataka,Dakshin kannad,Cereals & Millets,2020-2021,8127.0,23428.0,2.88
+Karnataka,Davangere,Cereals & Millets,2020-2021,282481.0,994957.0,3.52
+Karnataka,Dharwad,Cereals & Millets,2020-2021,143996.0,273600.0,1.9
+Karnataka,Gadag,Cereals & Millets,2020-2021,171041.0,267988.0,1.57
+Karnataka,Gulbarga,Cereals & Millets,2020-2021,112935.0,177027.0,1.57
+Karnataka,Hassan,Cereals & Millets,2020-2021,244835.0,656522.0,2.68
+Karnataka,Haveri,Cereals & Millets,2020-2021,346155.0,919408.0,2.66
+Karnataka,Kodagu,Cereals & Millets,2020-2021,21773.0,58368.0,2.68
+Karnataka,Kolar,Cereals & Millets,2020-2021,76709.0,175604.0,2.29
+Karnataka,Koppal,Cereals & Millets,2020-2021,305530.0,791132.0,2.59
+Karnataka,Mandya,Cereals & Millets,2020-2021,150276.0,363399.0,2.42
+Karnataka,Mysore,Cereals & Millets,2020-2021,217824.0,587370.0,2.7
+Karnataka,Raichur,Cereals & Millets,2020-2021,436213.0,1262093.0,2.89
+Karnataka,Ramanagara,Cereals & Millets,2020-2021,78380.0,180304.0,2.3
+Karnataka,Shimoga,Cereals & Millets,2020-2021,154912.0,529708.0,3.42
+Karnataka,Tumkur,Cereals & Millets,2020-2021,211739.0,389883.0,1.84
+Karnataka,Udupi,Cereals & Millets,2020-2021,40253.0,115593.0,2.87
+Karnataka,Uttar kannad,Cereals & Millets,2020-2021,57576.0,147254.0,2.56
+Karnataka,Yadgir,Cereals & Millets,2020-2021,174270.0,468158.0,2.69
+Maharashtra,Ahilyanagar,Cereals & Millets,2020-2021,672291.18,882364.53,1.31
+Maharashtra,Akola,Cereals & Millets,2020-2021,38720.41,50220.35,1.3
+Maharashtra,Amravati,Cereals & Millets,2020-2021,76759.4,124644.3,1.62
+Maharashtra,Beed,Cereals & Millets,2020-2021,210764.95,319017.55,1.51
+Maharashtra,Bhandara,Cereals & Millets,2020-2021,201312.61,411673.53,2.04
+Maharashtra,Buldhana,Cereals & Millets,2020-2021,149616.46,331916.86,2.22
+Maharashtra,Chandrapur,Cereals & Millets,2020-2021,168615.29,226716.13,1.34
+Maharashtra,Chhatrapati Sambhajinagar,Cereals & Millets,2020-2021,277750.72,537247.98,1.93
+Maharashtra,Dharashiv,Cereals & Millets,2020-2021,230729.81,292571.66,1.27
+Maharashtra,Dhule,Cereals & Millets,2020-2021,221626.07,371982.6,1.68
+Maharashtra,Gadchiroli,Cereals & Millets,2020-2021,188971.63,310514.12,1.64
+Maharashtra,Gondia,Cereals & Millets,2020-2021,209303.95,475823.48,2.27
+Maharashtra,Hingoli,Cereals & Millets,2020-2021,89975.34,71756.85,0.8
+Maharashtra,Jalgaon,Cereals & Millets,2020-2021,400140.86,958793.07,2.4
+Maharashtra,Jalna,Cereals & Millets,2020-2021,222217.82,444624.79,2.0
+Maharashtra,Kolhapur,Cereals & Millets,2020-2021,143132.49,420794.48,2.94
+Maharashtra,Latur,Cereals & Millets,2020-2021,119758.88,125783.35,1.05
+Maharashtra,Nagpur,Cereals & Millets,2020-2021,215960.1,462498.59,2.14
+Maharashtra,Nanded,Cereals & Millets,2020-2021,107669.91,111365.48,1.03
+Maharashtra,Nandurbar,Cereals & Millets,2020-2021,173553.45,317408.8,1.83
+Maharashtra,Nashik,Cereals & Millets,2020-2021,499010.66,1372059.64,2.75
+Maharashtra,Palghar,Cereals & Millets,2020-2021,97798.4,160507.35,1.64
+Maharashtra,Parbhani,Cereals & Millets,2020-2021,163761.73,227072.05,1.39
+Maharashtra,Pune,Cereals & Millets,2020-2021,353459.76,545658.23,1.54
+Maharashtra,Raigad,Cereals & Millets,2020-2021,104154.21,189470.89,1.82
+Maharashtra,Ratnagiri,Cereals & Millets,2020-2021,86678.79,228897.04,2.64
+Maharashtra,Sangli,Cereals & Millets,2020-2021,354184.05,523306.59,1.48
+Maharashtra,Satara,Cereals & Millets,2020-2021,338042.45,514086.36,1.52
+Maharashtra,Sindhudurg,Cereals & Millets,2020-2021,65539.5,181483.32,2.77
+Maharashtra,Solapur,Cereals & Millets,2020-2021,704930.14,687677.44,0.98
+Maharashtra,Thane,Cereals & Millets,2020-2021,57809.13,108745.85,1.88
+Maharashtra,Wardha,Cereals & Millets,2020-2021,21203.11,37356.76,1.76
+Maharashtra,Washim,Cereals & Millets,2020-2021,44859.14,96014.41,2.14
+Maharashtra,Yavatmal,Cereals & Millets,2020-2021,69036.27,81309.68,1.18
+Telangana,Adilabad,Cereals & Millets,2020-2021,20403.0,59941.0,2.94
+Telangana,Bhadradri,Cereals & Millets,2020-2021,96178.0,266884.0,2.77
+Telangana,Jagitial,Cereals & Millets,2020-2021,252030.0,980432.0,3.89
+Telangana,Jangoan,Cereals & Millets,2020-2021,127764.0,434992.0,3.4
+Telangana,Jayashankar,Cereals & Millets,2020-2021,80411.0,298942.0,3.72
+Telangana,Jogulamba,Cereals & Millets,2020-2021,62235.0,188213.0,3.02
+Telangana,Kamareddy,Cereals & Millets,2020-2021,230278.0,930683.0,4.04
+Telangana,Karimnagar,Cereals & Millets,2020-2021,220842.0,853104.0,3.86
+Telangana,Khammam,Cereals & Millets,2020-2021,237059.0,964768.0,4.07
+Telangana,Komaram bheem asifabad,Cereals & Millets,2020-2021,33543.0,92299.0,2.75
+Telangana,Mahabubabad,Cereals & Millets,2020-2021,142973.0,486224.0,3.4
+Telangana,Mahbubnagar,Cereals & Millets,2020-2021,109073.0,334670.0,3.07
+Telangana,Mancherial,Cereals & Millets,2020-2021,111887.0,339971.0,3.04
+Telangana,Medak,Cereals & Millets,2020-2021,152056.0,562262.0,3.7
+Telangana,Medchal,Cereals & Millets,2020-2021,12375.0,41055.0,3.32
+Telangana,Mulugu,Cereals & Millets,2020-2021,64489.0,206295.0,3.2
+Telangana,Nagarkurnool,Cereals & Millets,2020-2021,113034.0,354559.0,3.14
+Telangana,Nalgonda,Cereals & Millets,2020-2021,346334.0,1220949.0,3.53
+Telangana,Narayanapet,Cereals & Millets,2020-2021,85299.0,265012.0,3.11
+Telangana,Nirmal,Cereals & Millets,2020-2021,109296.0,491596.0,4.5
+Telangana,Nizamabad,Cereals & Millets,2020-2021,329954.0,1280607.0,3.88
+Telangana,Peddapalli,Cereals & Millets,2020-2021,167069.0,595844.0,3.57
+Telangana,Rajanna,Cereals & Millets,2020-2021,128633.0,459203.0,3.57
+Telangana,Rangareddi,Cereals & Millets,2020-2021,93586.0,290875.0,3.11
+Telangana,Sangareddy,Cereals & Millets,2020-2021,76466.0,238196.0,3.12
+Telangana,Siddipet,Cereals & Millets,2020-2021,211769.0,824786.0,3.89
+Telangana,Suryapet,Cereals & Millets,2020-2021,337492.0,1185952.0,3.51
+Telangana,Vikarabad,Cereals & Millets,2020-2021,73814.0,221549.0,3.0
+Telangana,Wanaparthy,Cereals & Millets,2020-2021,137335.0,429127.0,3.12
+Telangana,Warangal,Cereals & Millets,2020-2021,143668.0,644169.0,4.48
+Telangana,Warangal urban,Cereals & Millets,2020-2021,190246.0,743110.0,3.91
+Telangana,Yadadri,Cereals & Millets,2020-2021,183215.0,592396.0,3.23
+Karnataka,Bagalkot,Cereals & Millets,2021-2022,190914.0,480832.0,2.52
+Karnataka,Bangalore rural,Cereals & Millets,2021-2022,73856.0,138416.0,1.87
+Karnataka,Belgaum,Cereals & Millets,2021-2022,450952.0,1277098.0,2.83
+Karnataka,Bellary,Cereals & Millets,2021-2022,467458.0,1511206.0,3.23
+Karnataka,Bengaluru urban,Cereals & Millets,2021-2022,19963.0,36921.0,1.85
+Karnataka,Bidar,Cereals & Millets,2021-2022,48793.0,49538.0,1.02
+Karnataka,Bijapur,Cereals & Millets,2021-2022,148211.0,279426.0,1.89
+Karnataka,Chamarajanagar,Cereals & Millets,2021-2022,71837.0,189354.0,2.64
+Karnataka,Chikballapur,Cereals & Millets,2021-2022,105981.0,234712.0,2.21
+Karnataka,Chikmagalur,Cereals & Millets,2021-2022,81081.0,116513.0,1.44
+Karnataka,Chitradurga,Cereals & Millets,2021-2022,183322.0,379766.0,2.07
+Karnataka,Dakshin kannad,Cereals & Millets,2021-2022,7250.0,21116.0,2.91
+Karnataka,Davangere,Cereals & Millets,2021-2022,275454.0,925037.0,3.36
+Karnataka,Dharwad,Cereals & Millets,2021-2022,133969.0,303474.0,2.27
+Karnataka,Gadag,Cereals & Millets,2021-2022,169689.0,336292.0,1.98
+Karnataka,Gulbarga,Cereals & Millets,2021-2022,72853.0,126378.0,1.73
+Karnataka,Hassan,Cereals & Millets,2021-2022,250862.0,561405.0,2.24
+Karnataka,Haveri,Cereals & Millets,2021-2022,366540.0,871426.0,2.38
+Karnataka,Kodagu,Cereals & Millets,2021-2022,21998.0,61549.0,2.8
+Karnataka,Kolar,Cereals & Millets,2021-2022,65766.0,123531.0,1.88
+Karnataka,Koppal,Cereals & Millets,2021-2022,291486.0,673684.0,2.31
+Karnataka,Mandya,Cereals & Millets,2021-2022,143159.0,323237.0,2.26
+Karnataka,Mysore,Cereals & Millets,2021-2022,247510.0,617151.0,2.49
+Karnataka,Raichur,Cereals & Millets,2021-2022,404241.0,1159609.0,2.87
+Karnataka,Ramanagara,Cereals & Millets,2021-2022,82763.0,152505.0,1.84
+Karnataka,Shimoga,Cereals & Millets,2021-2022,139394.0,453501.0,3.25
+Karnataka,Tumkur,Cereals & Millets,2021-2022,206164.0,272558.0,1.32
+Karnataka,Udupi,Cereals & Millets,2021-2022,42757.0,125975.0,2.95
+Karnataka,Uttar kannad,Cereals & Millets,2021-2022,54862.0,140470.0,2.56
+Karnataka,Yadgir,Cereals & Millets,2021-2022,167571.0,457814.0,2.73
+Maharashtra,Ahilyanagar,Cereals & Millets,2021-2022,657854.39,837937.98,1.27
+Maharashtra,Akola,Cereals & Millets,2021-2022,39700.96,57604.68,1.45
+Maharashtra,Amravati,Cereals & Millets,2021-2022,76397.95,118528.3,1.55
+Maharashtra,Beed,Cereals & Millets,2021-2022,187928.85,218419.19,1.16
+Maharashtra,Bhandara,Cereals & Millets,2021-2022,204528.41,418819.91,2.05
+Maharashtra,Buldhana,Cereals & Millets,2021-2022,155200.46,368744.36,2.38
+Maharashtra,Chandrapur,Cereals & Millets,2021-2022,173754.8,289555.72,1.67
+Maharashtra,Chhatrapati Sambhajinagar,Cereals & Millets,2021-2022,274893.07,409367.59,1.49
+Maharashtra,Dharashiv,Cereals & Millets,2021-2022,238203.41,242944.42,1.02
+Maharashtra,Dhule,Cereals & Millets,2021-2022,219542.18,319424.11,1.45
+Maharashtra,Gadchiroli,Cereals & Millets,2021-2022,198585.42,315475.57,1.59
+Maharashtra,Gondia,Cereals & Millets,2021-2022,215249.01,507023.79,2.36
+Maharashtra,Hingoli,Cereals & Millets,2021-2022,85225.1,72678.67,0.85
+Maharashtra,Jalgaon,Cereals & Millets,2021-2022,410471.76,921785.79,2.25
+Maharashtra,Jalna,Cereals & Millets,2021-2022,231180.95,414720.96,1.79
+Maharashtra,Kolhapur,Cereals & Millets,2021-2022,136137.42,398630.94,2.93
+Maharashtra,Latur,Cereals & Millets,2021-2022,126285.47,117884.02,0.93
+Maharashtra,Nagpur,Cereals & Millets,2021-2022,218483.56,515329.82,2.36
+Maharashtra,Nanded,Cereals & Millets,2021-2022,101493.2,106115.61,1.05
+Maharashtra,Nandurbar,Cereals & Millets,2021-2022,161191.79,247681.38,1.54
+Maharashtra,Nashik,Cereals & Millets,2021-2022,501132.06,1290586.71,2.58
+Maharashtra,Palghar,Cereals & Millets,2021-2022,98886.84,180656.17,1.83
+Maharashtra,Parbhani,Cereals & Millets,2021-2022,171366.52,230913.89,1.35
+Maharashtra,Pune,Cereals & Millets,2021-2022,353517.99,601151.95,1.7
+Maharashtra,Raigad,Cereals & Millets,2021-2022,104612.58,233879.34,2.24
+Maharashtra,Ratnagiri,Cereals & Millets,2021-2022,88002.34,238956.74,2.72
+Maharashtra,Sangli,Cereals & Millets,2021-2022,343114.91,543398.37,1.58
+Maharashtra,Satara,Cereals & Millets,2021-2022,312998.57,566916.5,1.81
+Maharashtra,Sindhudurg,Cereals & Millets,2021-2022,65607.51,168503.24,2.57
+Maharashtra,Solapur,Cereals & Millets,2021-2022,706470.6,747992.64,1.06
+Maharashtra,Thane,Cereals & Millets,2021-2022,58688.61,132647.57,2.26
+Maharashtra,Wardha,Cereals & Millets,2021-2022,20627.38,39804.82,1.93
+Maharashtra,Washim,Cereals & Millets,2021-2022,44998.64,80231.22,1.78
+Maharashtra,Yavatmal,Cereals & Millets,2021-2022,69759.39,107564.19,1.54
+Telangana,Adilabad,Cereals & Millets,2021-2022,20953.0,45710.0,2.18
+Telangana,Bhadradri,Cereals & Millets,2021-2022,117795.0,450796.0,3.83
+Telangana,Jagitial,Cereals & Millets,2021-2022,222749.0,887244.0,3.98
+Telangana,Jangoan,Cereals & Millets,2021-2022,140962.0,469013.0,3.33
+Telangana,Jayashankar,Cereals & Millets,2021-2022,69917.0,240668.0,3.44
+Telangana,Jogulamba,Cereals & Millets,2021-2022,63633.0,182380.0,2.87
+Telangana,Kamareddy,Cereals & Millets,2021-2022,241571.0,1051742.0,4.35
+Telangana,Karimnagar,Cereals & Millets,2021-2022,208454.0,744904.0,3.57
+Telangana,Khammam,Cereals & Millets,2021-2022,191265.0,723691.0,3.78
+Telangana,Komaram bheem asifabad,Cereals & Millets,2021-2022,30233.0,67990.0,2.25
+Telangana,Mahabubabad,Cereals & Millets,2021-2022,158100.0,513936.0,3.25
+Telangana,Mahbubnagar,Cereals & Millets,2021-2022,119305.0,387615.0,3.25
+Telangana,Mancherial,Cereals & Millets,2021-2022,92356.0,250161.0,2.71
+Telangana,Medak,Cereals & Millets,2021-2022,171019.0,640770.0,3.75
+Telangana,Medchal,Cereals & Millets,2021-2022,9849.0,35887.0,3.64
+Telangana,Mulugu,Cereals & Millets,2021-2022,53972.0,173383.0,3.21
+Telangana,Nagarkurnool,Cereals & Millets,2021-2022,101115.0,305561.0,3.02
+Telangana,Nalgonda,Cereals & Millets,2021-2022,362671.0,1211023.0,3.34
+Telangana,Narayanapet,Cereals & Millets,2021-2022,82735.0,264042.0,3.19
+Telangana,Nirmal,Cereals & Millets,2021-2022,113814.0,573314.0,5.04
+Telangana,Nizamabad,Cereals & Millets,2021-2022,316486.0,1275450.0,4.03
+Telangana,Peddapalli,Cereals & Millets,2021-2022,158844.0,546276.0,3.44
+Telangana,Rajanna,Cereals & Millets,2021-2022,120411.0,469748.0,3.9
+Telangana,Rangareddi,Cereals & Millets,2021-2022,95591.0,333799.0,3.49
+Telangana,Sangareddy,Cereals & Millets,2021-2022,76880.0,266854.0,3.47
+Telangana,Siddipet,Cereals & Millets,2021-2022,253185.0,965915.0,3.82
+Telangana,Suryapet,Cereals & Millets,2021-2022,367676.0,1200751.0,3.27
+Telangana,Vikarabad,Cereals & Millets,2021-2022,89936.0,307992.0,3.42
+Telangana,Wanaparthy,Cereals & Millets,2021-2022,97587.0,344059.0,3.53
+Telangana,Warangal,Cereals & Millets,2021-2022,120603.0,577938.0,4.79
+Telangana,Warangal urban,Cereals & Millets,2021-2022,248072.0,1102022.0,4.44
+Telangana,Yadadri,Cereals & Millets,2021-2022,170983.0,564938.0,3.3
+Karnataka,Bagalkot,Cereals & Millets,2022-2023,154207.0,450942.0,2.92
+Karnataka,Bangalore rural,Cereals & Millets,2022-2023,68168.0,139204.41,2.04
+Karnataka,Belgaum,Cereals & Millets,2022-2023,399709.0,1111295.0,2.78
+Karnataka,Bellary,Cereals & Millets,2022-2023,210461.0,825109.0,3.92
+Karnataka,Bengaluru urban,Cereals & Millets,2022-2023,16944.0,33049.0,1.95
+Karnataka,Bidar,Cereals & Millets,2022-2023,46735.0,51893.0,1.11
+Karnataka,Bijapur,Cereals & Millets,2022-2023,201157.0,483663.0,2.4
+Karnataka,Chamarajanagar,Cereals & Millets,2022-2023,72985.0,216415.0,2.97
+Karnataka,Chikballapur,Cereals & Millets,2022-2023,93459.0,233175.0,2.49
+Karnataka,Chikmagalur,Cereals & Millets,2022-2023,76269.0,104373.0,1.37
+Karnataka,Chitradurga,Cereals & Millets,2022-2023,210720.0,545765.0,2.59
+Karnataka,Dakshin kannad,Cereals & Millets,2022-2023,7175.0,21011.0,2.93
+Karnataka,Davangere,Cereals & Millets,2022-2023,271406.0,864789.0,3.19
+Karnataka,Dharwad,Cereals & Millets,2022-2023,110367.0,275562.0,2.5
+Karnataka,Gadag,Cereals & Millets,2022-2023,171944.0,371849.0,2.16
+Karnataka,Gulbarga,Cereals & Millets,2022-2023,78146.0,136335.0,1.74
+Karnataka,Hassan,Cereals & Millets,2022-2023,261302.0,661714.0,2.53
+Karnataka,Haveri,Cereals & Millets,2022-2023,412375.0,621605.0,1.51
+Karnataka,Kodagu,Cereals & Millets,2022-2023,15205.0,41543.0,2.73
+Karnataka,Kolar,Cereals & Millets,2022-2023,51690.0,96071.0,1.86
+Karnataka,Koppal,Cereals & Millets,2022-2023,303941.0,764232.0,2.51
+Karnataka,Mandya,Cereals & Millets,2022-2023,150203.0,344386.0,2.29
+Karnataka,Mysore,Cereals & Millets,2022-2023,251771.0,629047.0,2.5
+Karnataka,Raichur,Cereals & Millets,2022-2023,341176.0,1085445.0,3.18
+Karnataka,Ramanagara,Cereals & Millets,2022-2023,68506.0,140012.0,2.04
+Karnataka,Shimoga,Cereals & Millets,2022-2023,135330.0,366035.0,2.7
+Karnataka,Tumkur,Cereals & Millets,2022-2023,189170.0,274716.0,1.45
+Karnataka,Udupi,Cereals & Millets,2022-2023,40417.0,116994.0,2.89
+Karnataka,Uttar kannad,Cereals & Millets,2022-2023,49527.0,123295.0,2.49
+Karnataka,Vijayanagar,Cereals & Millets,2022-2023,302387.0,919103.0,3.04
+Karnataka,Yadgir,Cereals & Millets,2022-2023,155218.0,468654.0,3.02
+Maharashtra,Ahilyanagar,Cereals & Millets,2022-2023,466815.66,702413.05,1.5
+Maharashtra,Akola,Cereals & Millets,2022-2023,38950.44,62395.44,1.6
+Maharashtra,Amravati,Cereals & Millets,2022-2023,74470.27,112987.35,1.52
+Maharashtra,Beed,Cereals & Millets,2022-2023,271889.0,371752.93,1.37
+Maharashtra,Bhandara,Cereals & Millets,2022-2023,251522.1,556454.48,2.21
+Maharashtra,Buldhana,Cereals & Millets,2022-2023,148126.97,313096.95,2.11
+Maharashtra,Chandrapur,Cereals & Millets,2022-2023,188138.28,307694.85,1.64
+Maharashtra,Chhatrapati Sambhajinagar,Cereals & Millets,2022-2023,209499.31,337742.62,1.61
+Maharashtra,Dharashiv,Cereals & Millets,2022-2023,208196.83,256876.96,1.23
+Maharashtra,Dhule,Cereals & Millets,2022-2023,203581.39,380398.79,1.87
+Maharashtra,Gadchiroli,Cereals & Millets,2022-2023,199369.96,364428.41,1.83
+Maharashtra,Gondia,Cereals & Millets,2022-2023,271549.87,735129.69,2.71
+Maharashtra,Hingoli,Cereals & Millets,2022-2023,45707.63,62910.45,1.38
+Maharashtra,Jalgaon,Cereals & Millets,2022-2023,403653.78,1060204.05,2.63
+Maharashtra,Jalna,Cereals & Millets,2022-2023,189039.05,420214.01,2.22
+Maharashtra,Kolhapur,Cereals & Millets,2022-2023,133185.32,382447.63,2.87
+Maharashtra,Latur,Cereals & Millets,2022-2023,68309.25,72549.39,1.06
+Maharashtra,Nagpur,Cereals & Millets,2022-2023,219103.7,426811.39,1.95
+Maharashtra,Nanded,Cereals & Millets,2022-2023,99135.13,108486.83,1.09
+Maharashtra,Nandurbar,Cereals & Millets,2022-2023,142853.47,311050.61,2.18
+Maharashtra,Nashik,Cereals & Millets,2022-2023,505853.78,1543581.04,3.05
+Maharashtra,Palghar,Cereals & Millets,2022-2023,100753.55,206679.11,2.05
+Maharashtra,Parbhani,Cereals & Millets,2022-2023,127710.95,181242.79,1.42
+Maharashtra,Pune,Cereals & Millets,2022-2023,268353.48,585282.2,2.18
+Maharashtra,Raigad,Cereals & Millets,2022-2023,101314.89,262863.75,2.59
+Maharashtra,Ratnagiri,Cereals & Millets,2022-2023,79684.53,221052.01,2.77
+Maharashtra,Sangli,Cereals & Millets,2022-2023,295935.26,476112.31,1.61
+Maharashtra,Satara,Cereals & Millets,2022-2023,312269.47,456174.92,1.46
+Maharashtra,Sindhudurg,Cereals & Millets,2022-2023,66547.18,177192.64,2.66
+Maharashtra,Solapur,Cereals & Millets,2022-2023,505419.8,625463.23,1.24
+Maharashtra,Thane,Cereals & Millets,2022-2023,59254.69,151266.21,2.55
+Maharashtra,Wardha,Cereals & Millets,2022-2023,19474.05,28283.51,1.45
+Maharashtra,Washim,Cereals & Millets,2022-2023,41289.96,94054.29,2.28
+Maharashtra,Yavatmal,Cereals & Millets,2022-2023,67495.44,65320.28,0.97
+Telangana,Adilabad,Cereals & Millets,2022-2023,25812.0,67769.0,2.63
+Telangana,Bhadradri,Cereals & Millets,2022-2023,125926.0,503264.0,4.0
+Telangana,Jagitial,Cereals & Millets,2022-2023,272157.0,1069854.0,3.93
+Telangana,Jangoan,Cereals & Millets,2022-2023,169803.0,449579.0,2.65
+Telangana,Jayashankar,Cereals & Millets,2022-2023,83194.0,282048.0,3.39
+Telangana,Jogulamba,Cereals & Millets,2022-2023,82846.0,280167.0,3.38
+Telangana,Kamareddy,Cereals & Millets,2022-2023,280715.0,1157705.0,4.12
+Telangana,Karimnagar,Cereals & Millets,2022-2023,229884.0,761693.0,3.31
+Telangana,Khammam,Cereals & Millets,2022-2023,242571.0,950204.0,3.92
+Telangana,Komaram bheem asifabad,Cereals & Millets,2022-2023,38415.0,100469.0,2.62
+Telangana,Mahabubabad,Cereals & Millets,2022-2023,185105.0,671643.0,3.63
+Telangana,Mahbubnagar,Cereals & Millets,2022-2023,155584.0,522694.0,3.36
+Telangana,Mancherial,Cereals & Millets,2022-2023,106744.0,336448.0,3.15
+Telangana,Medak,Cereals & Millets,2022-2023,230692.0,803687.0,3.48
+Telangana,Medchal,Cereals & Millets,2022-2023,13334.0,50899.0,3.82
+Telangana,Mulugu,Cereals & Millets,2022-2023,62748.0,203277.0,3.24
+Telangana,Nagarkurnool,Cereals & Millets,2022-2023,137840.0,496395.0,3.6
+Telangana,Nalgonda,Cereals & Millets,2022-2023,429892.0,1523556.0,3.54
+Telangana,Narayanapet,Cereals & Millets,2022-2023,123440.0,408462.0,3.31
+Telangana,Nirmal,Cereals & Millets,2022-2023,142574.0,650805.0,4.56
+Telangana,Nizamabad,Cereals & Millets,2022-2023,358573.0,1485658.0,4.14
+Telangana,Peddapalli,Cereals & Millets,2022-2023,175700.0,660526.0,3.76
+Telangana,Rajanna,Cereals & Millets,2022-2023,141972.0,517369.0,3.64
+Telangana,Rangareddi,Cereals & Millets,2022-2023,124261.0,458438.0,3.69
+Telangana,Sangareddy,Cereals & Millets,2022-2023,123452.0,450583.0,3.65
+Telangana,Siddipet,Cereals & Millets,2022-2023,311288.0,1045930.0,3.36
+Telangana,Suryapet,Cereals & Millets,2022-2023,384971.0,1361210.0,3.54
+Telangana,Vikarabad,Cereals & Millets,2022-2023,123865.0,424411.0,3.43
+Telangana,Wanaparthy,Cereals & Millets,2022-2023,147137.0,524629.0,3.57
+Telangana,Warangal,Cereals & Millets,2022-2023,141889.0,587661.0,4.14
+Telangana,Warangal urban,Cereals & Millets,2022-2023,268360.0,1146864.0,4.27
+Telangana,Yadadri,Cereals & Millets,2022-2023,238755.0,830241.0,3.48
+Karnataka,Bagalkot,Foodgrains,2020-2021,336166.0,660674.22,1.97
+Karnataka,Bangalore rural,Foodgrains,2020-2021,71917.0,174116.0,2.42
+Karnataka,Belgaum,Foodgrains,2020-2021,711908.0,1592864.0,2.24
+Karnataka,Bellary,Foodgrains,2020-2021,473060.0,1635797.0,3.46
+Karnataka,Bengaluru urban,Foodgrains,2020-2021,21533.0,54907.0,2.55
+Karnataka,Bidar,Foodgrains,2020-2021,324022.0,251768.43,0.78
+Karnataka,Bijapur,Foodgrains,2020-2021,782197.0,638717.0,0.82
+Karnataka,Chamarajanagar,Foodgrains,2020-2021,97464.0,231088.0,2.37
+Karnataka,Chikballapur,Foodgrains,2020-2021,116559.0,338002.22,2.9
+Karnataka,Chikmagalur,Foodgrains,2020-2021,105422.0,187597.0,1.78
+Karnataka,Chitradurga,Foodgrains,2020-2021,227331.0,579152.0,2.55
+Karnataka,Dakshin kannad,Foodgrains,2020-2021,8138.0,23433.0,2.88
+Karnataka,Davangere,Foodgrains,2020-2021,291289.0,999542.45,3.43
+Karnataka,Dharwad,Foodgrains,2020-2021,318021.0,356611.0,1.12
+Karnataka,Gadag,Foodgrains,2020-2021,418321.0,348676.0,0.83
+Karnataka,Gulbarga,Foodgrains,2020-2021,843049.0,909053.0,1.08
+Karnataka,Hassan,Foodgrains,2020-2021,257515.0,662353.49,2.57
+Karnataka,Haveri,Foodgrains,2020-2021,376444.0,936238.0,2.49
+Karnataka,Kodagu,Foodgrains,2020-2021,21785.0,58373.0,2.68
+Karnataka,Kolar,Foodgrains,2020-2021,87634.0,184497.0,2.11
+Karnataka,Koppal,Foodgrains,2020-2021,442810.0,852222.0,1.92
+Karnataka,Mandya,Foodgrains,2020-2021,168389.0,375052.74,2.23
+Karnataka,Mysore,Foodgrains,2020-2021,313803.0,637088.0,2.03
+Karnataka,Raichur,Foodgrains,2020-2021,625705.0,1394052.0,2.23
+Karnataka,Ramanagara,Foodgrains,2020-2021,86327.0,186686.0,2.16
+Karnataka,Shimoga,Foodgrains,2020-2021,157253.0,530566.0,3.37
+Karnataka,Tumkur,Foodgrains,2020-2021,247862.0,404691.3,1.63
+Karnataka,Udupi,Foodgrains,2020-2021,43070.0,117156.0,2.72
+Karnataka,Uttar kannad,Foodgrains,2020-2021,63807.0,151004.0,2.37
+Karnataka,Yadgir,Foodgrains,2020-2021,284353.0,555299.0,1.95
+Maharashtra,Ahilyanagar,Foodgrains,2020-2021,908734.32,1066752.97,1.17
+Maharashtra,Akola,Foodgrains,2020-2021,212386.15,202025.8,0.95
+Maharashtra,Amravati,Foodgrains,2020-2021,303459.45,346362.51,1.14
+Maharashtra,Beed,Foodgrains,2020-2021,376284.03,511091.22,1.36
+Maharashtra,Bhandara,Foodgrains,2020-2021,253434.37,450332.56,1.78
+Maharashtra,Buldhana,Foodgrains,2020-2021,474947.74,734609.77,1.55
+Maharashtra,Chandrapur,Foodgrains,2020-2021,299530.74,366479.86,1.22
+Maharashtra,Chhatrapati Sambhajinagar,Foodgrains,2020-2021,400278.24,611050.44,1.53
+Maharashtra,Dharashiv,Foodgrains,2020-2021,582722.94,660332.17,1.13
+Maharashtra,Dhule,Foodgrains,2020-2021,352746.92,463628.51,1.31
+Maharashtra,Gadchiroli,Foodgrains,2020-2021,223052.47,329229.56,1.48
+Maharashtra,Gondia,Foodgrains,2020-2021,232774.74,494788.4,2.13
+Maharashtra,Hingoli,Foodgrains,2020-2021,310155.71,215075.39,0.69
+Maharashtra,Jalgaon,Foodgrains,2020-2021,559563.91,1084890.71,1.94
+Maharashtra,Jalna,Foodgrains,2020-2021,352175.29,583492.42,1.66
+Maharashtra,Kolhapur,Foodgrains,2020-2021,153313.23,429231.01,2.8
+Maharashtra,Latur,Foodgrains,2020-2021,462422.2,522008.46,1.13
+Maharashtra,Nagpur,Foodgrains,2020-2021,352551.58,659679.87,1.87
+Maharashtra,Nanded,Foodgrains,2020-2021,382656.21,386341.97,1.01
+Maharashtra,Nandurbar,Foodgrains,2020-2021,253322.47,369152.21,1.46
+Maharashtra,Nashik,Foodgrains,2020-2021,590682.92,1446006.05,2.45
+Maharashtra,Palghar,Foodgrains,2020-2021,107855.1,166528.97,1.54
+Maharashtra,Parbhani,Foodgrains,2020-2021,302765.97,361304.78,1.19
+Maharashtra,Pune,Foodgrains,2020-2021,467391.42,633408.59,1.36
+Maharashtra,Raigad,Foodgrains,2020-2021,116967.96,194768.81,1.67
+Maharashtra,Ratnagiri,Foodgrains,2020-2021,92213.76,233054.3,2.53
+Maharashtra,Sangli,Foodgrains,2020-2021,426007.62,585632.97,1.37
+Maharashtra,Satara,Foodgrains,2020-2021,424296.33,597701.8,1.41
+Maharashtra,Sindhudurg,Foodgrains,2020-2021,70952.5,184982.96,2.61
+Maharashtra,Solapur,Foodgrains,2020-2021,884206.5,813739.58,0.92
+Maharashtra,Thane,Foodgrains,2020-2021,61262.48,111405.57,1.82
+Maharashtra,Wardha,Foodgrains,2020-2021,141002.71,250998.66,1.78
+Maharashtra,Washim,Foodgrains,2020-2021,196810.44,270740.36,1.38
+Maharashtra,Yavatmal,Foodgrains,2020-2021,344992.17,308882.67,0.9
+Telangana,Adilabad,Foodgrains,2020-2021,77531.0,139810.0,1.8
+Telangana,Bhadradri,Foodgrains,2020-2021,99776.0,269736.0,2.7
+Telangana,Jagitial,Foodgrains,2020-2021,259899.0,988562.0,3.8
+Telangana,Jangoan,Foodgrains,2020-2021,140740.0,441897.0,3.14
+Telangana,Jayashankar,Foodgrains,2020-2021,81232.0,299696.0,3.69
+Telangana,Jogulamba,Foodgrains,2020-2021,89429.0,217902.0,2.44
+Telangana,Kamareddy,Foodgrains,2020-2021,291319.0,1021491.0,3.51
+Telangana,Karimnagar,Foodgrains,2020-2021,224032.0,855563.0,3.82
+Telangana,Khammam,Foodgrains,2020-2021,256241.0,975643.0,3.81
+Telangana,Komaram bheem asifabad,Foodgrains,2020-2021,53705.0,113275.0,2.11
+Telangana,Mahabubabad,Foodgrains,2020-2021,152647.0,492233.0,3.22
+Telangana,Mahbubnagar,Foodgrains,2020-2021,138469.0,352231.0,2.54
+Telangana,Mancherial,Foodgrains,2020-2021,115197.0,343153.0,2.98
+Telangana,Medak,Foodgrains,2020-2021,162488.0,567978.0,3.5
+Telangana,Medchal,Foodgrains,2020-2021,13288.0,41774.0,3.14
+Telangana,Mulugu,Foodgrains,2020-2021,65688.0,207688.0,3.16
+Telangana,Nagarkurnool,Foodgrains,2020-2021,130011.0,369309.0,2.84
+Telangana,Nalgonda,Foodgrains,2020-2021,354839.0,1227854.0,3.46
+Telangana,Narayanapet,Foodgrains,2020-2021,143527.0,313641.0,2.19
+Telangana,Nirmal,Foodgrains,2020-2021,142703.0,543263.0,3.81
+Telangana,Nizamabad,Foodgrains,2020-2021,342816.0,1302371.0,3.8
+Telangana,Peddapalli,Foodgrains,2020-2021,167801.0,596435.0,3.55
+Telangana,Rajanna,Foodgrains,2020-2021,133991.0,463445.0,3.46
+Telangana,Rangareddi,Foodgrains,2020-2021,125816.0,317412.0,2.52
+Telangana,Sangareddy,Foodgrains,2020-2021,153321.0,294939.0,1.92
+Telangana,Siddipet,Foodgrains,2020-2021,232872.0,839961.0,3.61
+Telangana,Suryapet,Foodgrains,2020-2021,350933.0,1193326.0,3.4
+Telangana,Vikarabad,Foodgrains,2020-2021,171009.0,306438.0,1.79
+Telangana,Wanaparthy,Foodgrains,2020-2021,159053.0,449663.0,2.83
+Telangana,Warangal,Foodgrains,2020-2021,146864.0,646758.0,4.4
+Telangana,Warangal urban,Foodgrains,2020-2021,195822.0,747732.0,3.82
+Telangana,Yadadri,Foodgrains,2020-2021,202438.0,606900.0,3.0
+Karnataka,Bagalkot,Foodgrains,2021-2022,339757.0,572673.0,1.69
+Karnataka,Bangalore rural,Foodgrains,2021-2022,75711.0,139659.21,1.84
+Karnataka,Belgaum,Foodgrains,2021-2022,650334.0,1406023.0,2.16
+Karnataka,Bellary,Foodgrains,2021-2022,502123.0,1533572.0,3.05
+Karnataka,Bengaluru urban,Foodgrains,2021-2022,21422.0,37779.0,1.76
+Karnataka,Bidar,Foodgrains,2021-2022,318282.0,233228.0,0.73
+Karnataka,Bijapur,Foodgrains,2021-2022,718317.0,529071.0,0.74
+Karnataka,Chamarajanagar,Foodgrains,2021-2022,106921.0,213105.41,1.99
+Karnataka,Chikballapur,Foodgrains,2021-2022,113822.0,238519.0,2.1
+Karnataka,Chikmagalur,Foodgrains,2021-2022,94807.0,125546.41,1.32
+Karnataka,Chitradurga,Foodgrains,2021-2022,240967.0,410506.0,1.7
+Karnataka,Dakshin kannad,Foodgrains,2021-2022,7254.0,21118.21,2.91
+Karnataka,Davangere,Foodgrains,2021-2022,286887.0,932521.0,3.25
+Karnataka,Dharwad,Foodgrains,2021-2022,341436.0,443086.0,1.3
+Karnataka,Gadag,Foodgrains,2021-2022,384096.0,424072.0,1.1
+Karnataka,Gulbarga,Foodgrains,2021-2022,773058.0,745745.0,0.96
+Karnataka,Hassan,Foodgrains,2021-2022,271904.0,568678.0,2.09
+Karnataka,Haveri,Foodgrains,2021-2022,396136.0,887516.0,2.24
+Karnataka,Kodagu,Foodgrains,2021-2022,22006.0,61554.0,2.8
+Karnataka,Kolar,Foodgrains,2021-2022,76273.0,128912.49,1.69
+Karnataka,Koppal,Foodgrains,2021-2022,453368.0,734147.0,1.62
+Karnataka,Mandya,Foodgrains,2021-2022,164783.0,337460.0,2.05
+Karnataka,Mysore,Foodgrains,2021-2022,341891.0,663052.0,1.94
+Karnataka,Raichur,Foodgrains,2021-2022,586198.0,1269874.0,2.17
+Karnataka,Ramanagara,Foodgrains,2021-2022,89993.0,158034.49,1.76
+Karnataka,Shimoga,Foodgrains,2021-2022,140141.0,453820.0,3.24
+Karnataka,Tumkur,Foodgrains,2021-2022,254673.0,284586.0,1.12
+Karnataka,Udupi,Foodgrains,2021-2022,45532.0,127478.35,2.8
+Karnataka,Uttar kannad,Foodgrains,2021-2022,58795.0,141890.84,2.41
+Karnataka,Yadgir,Foodgrains,2021-2022,290004.0,544990.0,1.88
+Maharashtra,Ahilyanagar,Foodgrains,2021-2022,906071.7,1027894.22,1.13
+Maharashtra,Akola,Foodgrains,2021-2022,234500.91,346228.78,1.48
+Maharashtra,Amravati,Foodgrains,2021-2022,323633.57,371014.27,1.15
+Maharashtra,Beed,Foodgrains,2021-2022,374288.78,360075.77,0.96
+Maharashtra,Bhandara,Foodgrains,2021-2022,263532.06,453575.91,1.72
+Maharashtra,Buldhana,Foodgrains,2021-2022,511332.17,1123860.8,2.2
+Maharashtra,Chandrapur,Foodgrains,2021-2022,292268.05,384337.79,1.32
+Maharashtra,Chhatrapati Sambhajinagar,Foodgrains,2021-2022,396714.99,492759.82,1.24
+Maharashtra,Dharashiv,Foodgrains,2021-2022,603747.56,555620.22,0.92
+Maharashtra,Dhule,Foodgrains,2021-2022,349063.23,410276.31,1.18
+Maharashtra,Gadchiroli,Foodgrains,2021-2022,235336.0,333000.41,1.41
+Maharashtra,Gondia,Foodgrains,2021-2022,237990.12,522728.94,2.2
+Maharashtra,Hingoli,Foodgrains,2021-2022,272488.91,267687.16,0.98
+Maharashtra,Jalgaon,Foodgrains,2021-2022,581644.97,1079529.33,1.86
+Maharashtra,Jalna,Foodgrains,2021-2022,377574.24,558990.44,1.48
+Maharashtra,Kolhapur,Foodgrains,2021-2022,146877.73,407421.01,2.77
+Maharashtra,Latur,Foodgrains,2021-2022,493697.61,439916.11,0.89
+Maharashtra,Nagpur,Foodgrains,2021-2022,367462.38,734646.87,2.0
+Maharashtra,Nanded,Foodgrains,2021-2022,405866.39,338191.96,0.83
+Maharashtra,Nandurbar,Foodgrains,2021-2022,232376.89,299187.79,1.29
+Maharashtra,Nashik,Foodgrains,2021-2022,593956.73,1368326.36,2.3
+Maharashtra,Palghar,Foodgrains,2021-2022,109730.11,187635.7,1.71
+Maharashtra,Parbhani,Foodgrains,2021-2022,318602.68,413440.69,1.3
+Maharashtra,Pune,Foodgrains,2021-2022,472111.5,714205.23,1.51
+Maharashtra,Raigad,Foodgrains,2021-2022,119546.9,239993.65,2.01
+Maharashtra,Ratnagiri,Foodgrains,2021-2022,94452.85,243771.52,2.58
+Maharashtra,Sangli,Foodgrains,2021-2022,412757.85,600451.54,1.45
+Maharashtra,Satara,Foodgrains,2021-2022,411556.9,676719.22,1.64
+Maharashtra,Sindhudurg,Foodgrains,2021-2022,71190.51,172199.5,2.42
+Maharashtra,Solapur,Foodgrains,2021-2022,902709.32,874021.5,0.97
+Maharashtra,Thane,Foodgrains,2021-2022,66673.74,138738.79,2.08
+Maharashtra,Wardha,Foodgrains,2021-2022,132632.61,199214.27,1.5
+Maharashtra,Washim,Foodgrains,2021-2022,215562.61,234095.62,1.09
+Maharashtra,Yavatmal,Foodgrains,2021-2022,345194.19,379131.01,1.1
+Telangana,Adilabad,Foodgrains,2021-2022,83152.0,123620.0,1.49
+Telangana,Bhadradri,Foodgrains,2021-2022,126525.0,459500.0,3.63
+Telangana,Jagitial,Foodgrains,2021-2022,231430.0,895209.0,3.87
+Telangana,Jangoan,Foodgrains,2021-2022,150662.0,473589.0,3.14
+Telangana,Jayashankar,Foodgrains,2021-2022,70514.0,241123.0,3.42
+Telangana,Jogulamba,Foodgrains,2021-2022,90226.0,206378.0,2.29
+Telangana,Kamareddy,Foodgrains,2021-2022,300523.0,1123852.0,3.74
+Telangana,Karimnagar,Foodgrains,2021-2022,210419.0,746530.0,3.55
+Telangana,Khammam,Foodgrains,2021-2022,204122.0,731842.0,3.59
+Telangana,Komaram bheem asifabad,Foodgrains,2021-2022,51729.0,89731.0,1.73
+Telangana,Mahabubabad,Foodgrains,2021-2022,167164.0,519005.0,3.1
+Telangana,Mahbubnagar,Foodgrains,2021-2022,130756.0,394238.0,3.02
+Telangana,Mancherial,Foodgrains,2021-2022,95811.0,253960.0,2.65
+Telangana,Medak,Foodgrains,2021-2022,176360.0,644655.0,3.66
+Telangana,Medchal,Foodgrains,2021-2022,10132.0,36124.0,3.57
+Telangana,Mulugu,Foodgrains,2021-2022,54859.0,174017.0,3.17
+Telangana,Nagarkurnool,Foodgrains,2021-2022,113914.0,317079.0,2.78
+Telangana,Nalgonda,Foodgrains,2021-2022,368934.0,1215438.0,3.29
+Telangana,Narayanapet,Foodgrains,2021-2022,130632.0,300674.0,2.3
+Telangana,Nirmal,Foodgrains,2021-2022,150027.0,623449.0,4.16
+Telangana,Nizamabad,Foodgrains,2021-2022,327876.0,1290693.0,3.94
+Telangana,Peddapalli,Foodgrains,2021-2022,160028.0,547452.0,3.42
+Telangana,Rajanna,Foodgrains,2021-2022,123925.0,473249.0,3.82
+Telangana,Rangareddi,Foodgrains,2021-2022,113245.0,343776.0,3.04
+Telangana,Sangareddy,Foodgrains,2021-2022,146827.0,334476.0,2.28
+Telangana,Siddipet,Foodgrains,2021-2022,265686.0,975227.0,3.67
+Telangana,Suryapet,Foodgrains,2021-2022,374047.0,1204528.0,3.22
+Telangana,Vikarabad,Foodgrains,2021-2022,180013.0,381142.0,2.12
+Telangana,Wanaparthy,Foodgrains,2021-2022,117935.0,373016.0,3.16
+Telangana,Warangal,Foodgrains,2021-2022,122755.0,579454.0,4.72
+Telangana,Warangal urban,Foodgrains,2021-2022,251146.0,1104042.0,4.4
+Telangana,Yadadri,Foodgrains,2021-2022,183139.0,575229.0,3.14
+Karnataka,Bagalkot,Foodgrains,2022-2023,272156.0,530274.0,1.95
+Karnataka,Bangalore rural,Foodgrains,2022-2023,69480.0,140027.69,2.02
+Karnataka,Belgaum,Foodgrains,2022-2023,579132.0,1221061.0,2.11
+Karnataka,Bellary,Foodgrains,2022-2023,220326.0,830508.0,3.77
+Karnataka,Bengaluru urban,Foodgrains,2022-2023,17891.0,33649.45,1.88
+Karnataka,Bidar,Foodgrains,2022-2023,269453.0,236094.36,0.88
+Karnataka,Bijapur,Foodgrains,2022-2023,636008.0,779545.0,1.23
+Karnataka,Chamarajanagar,Foodgrains,2022-2023,94048.0,231812.0,2.46
+Karnataka,Chikballapur,Foodgrains,2022-2023,98385.0,236274.0,2.4
+Karnataka,Chikmagalur,Foodgrains,2022-2023,91512.0,112066.0,1.22
+Karnataka,Chitradurga,Foodgrains,2022-2023,258113.0,577097.28,2.24
+Karnataka,Dakshin kannad,Foodgrains,2022-2023,7183.0,21014.36,2.93
+Karnataka,Davangere,Foodgrains,2022-2023,279779.0,869536.0,3.11
+Karnataka,Dharwad,Foodgrains,2022-2023,368928.0,427781.0,1.16
+Karnataka,Gadag,Foodgrains,2022-2023,456375.0,493966.0,1.08
+Karnataka,Gulbarga,Foodgrains,2022-2023,665816.0,655452.0,0.98
+Karnataka,Hassan,Foodgrains,2022-2023,288732.0,671953.0,2.33
+Karnataka,Haveri,Foodgrains,2022-2023,430032.0,631310.0,1.47
+Karnataka,Kodagu,Foodgrains,2022-2023,15206.0,41544.0,2.73
+Karnataka,Kolar,Foodgrains,2022-2023,59643.0,102190.45,1.71
+Karnataka,Koppal,Foodgrains,2022-2023,482048.0,830020.0,1.72
+Karnataka,Mandya,Foodgrains,2022-2023,177300.0,358691.0,2.02
+Karnataka,Mysore,Foodgrains,2022-2023,335873.0,666688.0,1.98
+Karnataka,Raichur,Foodgrains,2022-2023,483300.0,1175525.0,2.43
+Karnataka,Ramanagara,Foodgrains,2022-2023,73938.0,145106.0,1.96
+Karnataka,Shimoga,Foodgrains,2022-2023,135518.0,366121.0,2.7
+Karnataka,Tumkur,Foodgrains,2022-2023,247670.0,290816.0,1.17
+Karnataka,Udupi,Foodgrains,2022-2023,43198.0,118453.36,2.74
+Karnataka,Uttar kannad,Foodgrains,2022-2023,52466.0,124493.36,2.37
+Karnataka,Vijayanagar,Foodgrains,2022-2023,324220.0,931106.0,2.87
+Karnataka,Yadgir,Foodgrains,2022-2023,214984.0,505549.0,2.35
+Maharashtra,Ahilyanagar,Foodgrains,2022-2023,697849.9,914312.04,1.31
+Maharashtra,Akola,Foodgrains,2022-2023,237825.02,245150.3,1.03
+Maharashtra,Amravati,Foodgrains,2022-2023,331625.69,268362.18,0.81
+Maharashtra,Beed,Foodgrains,2022-2023,566232.0,655605.12,1.16
+Maharashtra,Bhandara,Foodgrains,2022-2023,308310.24,586205.75,1.9
+Maharashtra,Buldhana,Foodgrains,2022-2023,467851.03,610197.77,1.3
+Maharashtra,Chandrapur,Foodgrains,2022-2023,331034.19,494318.2,1.49
+Maharashtra,Chhatrapati Sambhajinagar,Foodgrains,2022-2023,321352.5,408818.44,1.27
+Maharashtra,Dharashiv,Foodgrains,2022-2023,573081.8,559834.71,0.98
+Maharashtra,Dhule,Foodgrains,2022-2023,263995.86,417090.67,1.58
+Maharashtra,Gadchiroli,Foodgrains,2022-2023,224396.5,376495.13,1.68
+Maharashtra,Gondia,Foodgrains,2022-2023,293239.98,751248.53,2.56
+Maharashtra,Hingoli,Foodgrains,2022-2023,266002.16,283028.92,1.06
+Maharashtra,Jalgaon,Foodgrains,2022-2023,553515.88,1189322.84,2.15
+Maharashtra,Jalna,Foodgrains,2022-2023,373550.86,623596.37,1.67
+Maharashtra,Kolhapur,Foodgrains,2022-2023,143873.58,391780.58,2.72
+Maharashtra,Latur,Foodgrains,2022-2023,464371.65,373257.81,0.8
+Maharashtra,Nagpur,Foodgrains,2022-2023,370480.19,617851.68,1.67
+Maharashtra,Nanded,Foodgrains,2022-2023,482485.46,479149.83,0.99
+Maharashtra,Nandurbar,Foodgrains,2022-2023,194174.63,347596.34,1.79
+Maharashtra,Nashik,Foodgrains,2022-2023,564984.09,1594926.34,2.82
+Maharashtra,Palghar,Foodgrains,2022-2023,111826.93,213752.0,1.91
+Maharashtra,Parbhani,Foodgrains,2022-2023,372219.64,454092.34,1.22
+Maharashtra,Pune,Foodgrains,2022-2023,324303.11,632921.23,1.95
+Maharashtra,Raigad,Foodgrains,2022-2023,116257.39,268866.92,2.31
+Maharashtra,Ratnagiri,Foodgrains,2022-2023,87116.0,226740.51,2.6
+Maharashtra,Sangli,Foodgrains,2022-2023,361184.82,526065.95,1.46
+Maharashtra,Satara,Foodgrains,2022-2023,410362.29,565444.17,1.38
+Maharashtra,Sindhudurg,Foodgrains,2022-2023,72590.18,180996.8,2.49
+Maharashtra,Solapur,Foodgrains,2022-2023,716214.07,750568.27,1.05
+Maharashtra,Thane,Foodgrains,2022-2023,67463.11,158134.75,2.34
+Maharashtra,Wardha,Foodgrains,2022-2023,182488.35,196734.32,1.08
+Maharashtra,Washim,Foodgrains,2022-2023,201005.22,236159.29,1.17
+Maharashtra,Yavatmal,Foodgrains,2022-2023,354048.9,219647.61,0.62
+Telangana,Adilabad,Foodgrains,2022-2023,101314.0,169300.0,1.67
+Telangana,Bhadradri,Foodgrains,2022-2023,130409.0,507508.0,3.89
+Telangana,Jagitial,Foodgrains,2022-2023,274290.0,1071529.0,3.91
+Telangana,Jangoan,Foodgrains,2022-2023,173116.0,451154.0,2.61
+Telangana,Jayashankar,Foodgrains,2022-2023,83387.0,282232.0,3.38
+Telangana,Jogulamba,Foodgrains,2022-2023,98134.0,298134.0,3.04
+Telangana,Kamareddy,Foodgrains,2022-2023,325706.0,1222374.0,3.75
+Telangana,Karimnagar,Foodgrains,2022-2023,230460.0,762036.0,3.31
+Telangana,Khammam,Foodgrains,2022-2023,248885.0,954914.0,3.84
+Telangana,Komaram bheem asifabad,Foodgrains,2022-2023,59445.0,122431.0,2.06
+Telangana,Mahabubabad,Foodgrains,2022-2023,189596.0,674542.0,3.56
+Telangana,Mahbubnagar,Foodgrains,2022-2023,160646.0,526813.0,3.28
+Telangana,Mancherial,Foodgrains,2022-2023,108207.0,337818.0,3.12
+Telangana,Medak,Foodgrains,2022-2023,232828.0,805005.0,3.46
+Telangana,Medchal,Foodgrains,2022-2023,13407.0,50965.0,3.8
+Telangana,Mulugu,Foodgrains,2022-2023,63347.0,203707.0,3.22
+Telangana,Nagarkurnool,Foodgrains,2022-2023,145140.0,505155.0,3.48
+Telangana,Nalgonda,Foodgrains,2022-2023,432299.0,1525577.0,3.53
+Telangana,Narayanapet,Foodgrains,2022-2023,149333.0,428470.0,2.87
+Telangana,Nirmal,Foodgrains,2022-2023,174597.0,700158.0,4.01
+Telangana,Nizamabad,Foodgrains,2022-2023,367795.0,1501125.0,4.08
+Telangana,Peddapalli,Foodgrains,2022-2023,176070.0,660839.0,3.75
+Telangana,Rajanna,Foodgrains,2022-2023,143061.0,518254.0,3.62
+Telangana,Rangareddi,Foodgrains,2022-2023,131925.0,464651.0,3.52
+Telangana,Sangareddy,Foodgrains,2022-2023,183097.0,512485.0,2.8
+Telangana,Siddipet,Foodgrains,2022-2023,317911.0,1052069.0,3.31
+Telangana,Suryapet,Foodgrains,2022-2023,387447.0,1362748.0,3.52
+Telangana,Vikarabad,Foodgrains,2022-2023,205841.0,493914.0,2.4
+Telangana,Wanaparthy,Foodgrains,2022-2023,160655.0,546848.0,3.4
+Telangana,Warangal,Foodgrains,2022-2023,142487.0,588073.0,4.13
+Telangana,Warangal urban,Foodgrains,2022-2023,269096.0,1147312.0,4.26
+Telangana,Yadadri,Foodgrains,2022-2023,243006.0,833157.0,3.43
+Karnataka,Bagalkot,Oilseeds,2020-2021,69580.0,86729.0,1.25
+Karnataka,Bangalore rural,Oilseeds,2020-2021,309.0,312.42,1.01
+Karnataka,Belgaum,Oilseeds,2020-2021,137190.0,141465.0,1.03
+Karnataka,Bellary,Oilseeds,2020-2021,81307.0,106304.0,1.31
+Karnataka,Bengaluru urban,Oilseeds,2020-2021,68.0,55.21,0.81
+Karnataka,Bidar,Oilseeds,2020-2021,184042.0,240907.42,1.31
+Karnataka,Bijapur,Oilseeds,2020-2021,41108.0,32474.0,0.79
+Karnataka,Chamarajanagar,Oilseeds,2020-2021,9462.0,10656.0,1.13
+Karnataka,Chikballapur,Oilseeds,2020-2021,35973.0,35430.0,0.98
+Karnataka,Chikmagalur,Oilseeds,2020-2021,2510.0,2805.0,1.12
+Karnataka,Chitradurga,Oilseeds,2020-2021,170918.0,144906.21,0.85
+Karnataka,Dakshin kannad,Oilseeds,2020-2021,6.0,6.0,1.0
+Karnataka,Davangere,Oilseeds,2020-2021,13366.0,18266.0,1.37
+Karnataka,Dharwad,Oilseeds,2020-2021,71974.0,69520.42,0.97
+Karnataka,Gadag,Oilseeds,2020-2021,80309.0,45738.0,0.57
+Karnataka,Gulbarga,Oilseeds,2020-2021,31333.0,32671.0,1.04
+Karnataka,Hassan,Oilseeds,2020-2021,1114.0,958.0,0.86
+Karnataka,Haveri,Oilseeds,2020-2021,50421.0,60040.0,1.19
+Karnataka,Kodagu,Oilseeds,2020-2021,4.0,4.0,1.0
+Karnataka,Kolar,Oilseeds,2020-2021,11888.0,13277.0,1.12
+Karnataka,Koppal,Oilseeds,2020-2021,64998.0,58894.21,0.91
+Karnataka,Mandya,Oilseeds,2020-2021,2278.0,2090.0,0.92
+Karnataka,Mysore,Oilseeds,2020-2021,4590.0,3778.0,0.82
+Karnataka,Raichur,Oilseeds,2020-2021,25179.0,22689.0,0.9
+Karnataka,Ramanagara,Oilseeds,2020-2021,1351.0,1608.49,1.19
+Karnataka,Shimoga,Oilseeds,2020-2021,1848.0,4515.67,2.44
+Karnataka,Tumkur,Oilseeds,2020-2021,88205.0,71079.21,0.81
+Karnataka,Udupi,Oilseeds,2020-2021,1990.0,4304.0,2.16
+Karnataka,Uttar kannad,Oilseeds,2020-2021,1861.0,4055.0,2.18
+Karnataka,Yadgir,Oilseeds,2020-2021,23925.0,33059.0,1.38
+Maharashtra,Ahilyanagar,Oilseeds,2020-2021,100467.27,154235.93,1.54
+Maharashtra,Akola,Oilseeds,2020-2021,221801.52,270315.14,1.22
+Maharashtra,Amravati,Oilseeds,2020-2021,241718.49,222339.65,0.92
+Maharashtra,Beed,Oilseeds,2020-2021,271303.42,523223.13,1.93
+Maharashtra,Bhandara,Oilseeds,2020-2021,2480.93,765.47,0.31
+Maharashtra,Buldhana,Oilseeds,2020-2021,429011.0,709203.14,1.65
+Maharashtra,Chandrapur,Oilseeds,2020-2021,83207.41,70401.04,0.85
+Maharashtra,Chhatrapati Sambhajinagar,Oilseeds,2020-2021,30774.93,27716.42,0.9
+Maharashtra,Dharashiv,Oilseeds,2020-2021,273908.89,425724.6,1.55
+Maharashtra,Dhule,Oilseeds,2020-2021,44069.27,42328.24,0.96
+Maharashtra,Gadchiroli,Oilseeds,2020-2021,2441.5,661.12,0.27
+Maharashtra,Gondia,Oilseeds,2020-2021,4228.99,937.15,0.22
+Maharashtra,Hingoli,Oilseeds,2020-2021,241226.91,257286.06,1.07
+Maharashtra,Jalgaon,Oilseeds,2020-2021,43008.4,47223.75,1.1
+Maharashtra,Jalna,Oilseeds,2020-2021,165897.63,324204.39,1.95
+Maharashtra,Kolhapur,Oilseeds,2020-2021,86888.14,164516.81,1.89
+Maharashtra,Latur,Oilseeds,2020-2021,462765.08,784493.86,1.7
+Maharashtra,Nagpur,Oilseeds,2020-2021,158210.05,64805.02,0.41
+Maharashtra,Nanded,Oilseeds,2020-2021,403294.58,546723.2,1.36
+Maharashtra,Nandurbar,Oilseeds,2020-2021,40807.5,55128.54,1.35
+Maharashtra,Nashik,Oilseeds,2020-2021,109396.43,189004.73,1.73
+Maharashtra,Palghar,Oilseeds,2020-2021,1419.29,443.61,0.31
+Maharashtra,Parbhani,Oilseeds,2020-2021,262547.69,358787.09,1.37
+Maharashtra,Pune,Oilseeds,2020-2021,56270.1,108619.33,1.93
+Maharashtra,Raigad,Oilseeds,2020-2021,71.8,53.48,0.74
+Maharashtra,Ratnagiri,Oilseeds,2020-2021,325.1,227.25,0.7
+Maharashtra,Sangli,Oilseeds,2020-2021,79178.44,150679.81,1.9
+Maharashtra,Satara,Oilseeds,2020-2021,111748.92,233028.66,2.09
+Maharashtra,Sindhudurg,Oilseeds,2020-2021,1467.45,2695.21,1.84
+Maharashtra,Solapur,Oilseeds,2020-2021,52012.18,61113.44,1.17
+Maharashtra,Thane,Oilseeds,2020-2021,125.96,56.53,0.45
+Maharashtra,Wardha,Oilseeds,2020-2021,128640.71,71339.68,0.55
+Maharashtra,Washim,Oilseeds,2020-2021,314782.51,553816.92,1.76
+Maharashtra,Yavatmal,Oilseeds,2020-2021,299429.19,297097.2,0.99
+Telangana,Adilabad,Oilseeds,2020-2021,33261.0,45515.0,1.37
+Telangana,Bhadradri,Oilseeds,2020-2021,1271.0,3791.0,2.98
+Telangana,Jagitial,Oilseeds,2020-2021,10694.0,10397.0,0.97
+Telangana,Jangoan,Oilseeds,2020-2021,1825.0,2369.0,1.3
+Telangana,Jayashankar,Oilseeds,2020-2021,479.0,903.0,1.89
+Telangana,Jogulamba,Oilseeds,2020-2021,17024.0,29874.0,1.75
+Telangana,Kamareddy,Oilseeds,2020-2021,36322.0,54987.0,1.51
+Telangana,Karimnagar,Oilseeds,2020-2021,957.0,1650.0,1.72
+Telangana,Khammam,Oilseeds,2020-2021,2429.0,3423.0,1.41
+Telangana,Komaram bheem asifabad,Oilseeds,2020-2021,786.0,1036.0,1.32
+Telangana,Mahabubabad,Oilseeds,2020-2021,2689.0,5290.0,1.97
+Telangana,Mahbubnagar,Oilseeds,2020-2021,6508.0,12231.0,1.88
+Telangana,Mancherial,Oilseeds,2020-2021,410.0,632.0,1.54
+Telangana,Medak,Oilseeds,2020-2021,913.0,1465.0,1.6
+Telangana,Medchal,Oilseeds,2020-2021,13.0,5.0,0.38
+Telangana,Mulugu,Oilseeds,2020-2021,436.0,1015.0,2.33
+Telangana,Nagarkurnool,Oilseeds,2020-2021,57262.0,144273.0,2.52
+Telangana,Nalgonda,Oilseeds,2020-2021,7622.0,11823.0,1.55
+Telangana,Narayanapet,Oilseeds,2020-2021,5363.0,7448.0,1.39
+Telangana,Nirmal,Oilseeds,2020-2021,38984.0,46796.0,1.2
+Telangana,Nizamabad,Oilseeds,2020-2021,36894.0,70427.0,1.91
+Telangana,Peddapalli,Oilseeds,2020-2021,314.0,555.0,1.77
+Telangana,Rajanna,Oilseeds,2020-2021,492.0,583.0,1.18
+Telangana,Rangareddi,Oilseeds,2020-2021,3207.0,6373.0,1.99
+Telangana,Sangareddy,Oilseeds,2020-2021,31097.0,41309.0,1.33
+Telangana,Siddipet,Oilseeds,2020-2021,3961.0,8859.0,2.24
+Telangana,Suryapet,Oilseeds,2020-2021,2235.0,4849.0,2.17
+Telangana,Vikarabad,Oilseeds,2020-2021,5201.0,9366.0,1.8
+Telangana,Wanaparthy,Oilseeds,2020-2021,18197.0,33467.0,1.84
+Telangana,Warangal,Oilseeds,2020-2021,5285.0,12165.0,2.3
+Telangana,Warangal urban,Oilseeds,2020-2021,1624.0,3518.0,2.17
+Telangana,Yadadri,Oilseeds,2020-2021,244.0,184.0,0.75
+Karnataka,Bagalkot,Oilseeds,2021-2022,53599.0,67199.0,1.25
+Karnataka,Bangalore rural,Oilseeds,2021-2022,203.0,234.0,1.15
+Karnataka,Belgaum,Oilseeds,2021-2022,142878.0,137068.0,0.96
+Karnataka,Bellary,Oilseeds,2021-2022,68449.0,77050.35,1.13
+Karnataka,Bengaluru urban,Oilseeds,2021-2022,84.0,48.0,0.57
+Karnataka,Bidar,Oilseeds,2021-2022,220353.0,289097.0,1.31
+Karnataka,Bijapur,Oilseeds,2021-2022,27011.0,24033.0,0.89
+Karnataka,Chamarajanagar,Oilseeds,2021-2022,21433.0,19898.35,0.93
+Karnataka,Chikballapur,Oilseeds,2021-2022,29875.0,29357.49,0.98
+Karnataka,Chikmagalur,Oilseeds,2021-2022,7666.0,7933.0,1.03
+Karnataka,Chitradurga,Oilseeds,2021-2022,144981.0,78875.49,0.54
+Karnataka,Davangere,Oilseeds,2021-2022,7746.0,9604.93,1.24
+Karnataka,Dharwad,Oilseeds,2021-2022,78759.0,65203.48,0.83
+Karnataka,Gadag,Oilseeds,2021-2022,76251.0,45334.0,0.59
+Karnataka,Gulbarga,Oilseeds,2021-2022,34395.0,36897.0,1.07
+Karnataka,Hassan,Oilseeds,2021-2022,5279.0,3883.52,0.74
+Karnataka,Haveri,Oilseeds,2021-2022,51609.0,44942.0,0.87
+Karnataka,Kodagu,Oilseeds,2021-2022,1.0,1.0,1.0
+Karnataka,Kolar,Oilseeds,2021-2022,8662.0,8951.0,1.03
+Karnataka,Koppal,Oilseeds,2021-2022,69975.0,55179.0,0.79
+Karnataka,Mandya,Oilseeds,2021-2022,8031.0,6173.3,0.77
+Karnataka,Mysore,Oilseeds,2021-2022,7844.0,6210.44,0.79
+Karnataka,Raichur,Oilseeds,2021-2022,35307.0,32311.0,0.92
+Karnataka,Ramanagara,Oilseeds,2021-2022,1401.0,1632.0,1.16
+Karnataka,Shimoga,Oilseeds,2021-2022,670.0,1075.0,1.6
+Karnataka,Tumkur,Oilseeds,2021-2022,69440.0,42841.24,0.62
+Karnataka,Udupi,Oilseeds,2021-2022,1749.0,3383.0,1.93
+Karnataka,Uttar kannad,Oilseeds,2021-2022,1431.0,2524.0,1.76
+Karnataka,Yadgir,Oilseeds,2021-2022,22554.0,24135.0,1.07
+Maharashtra,Ahilyanagar,Oilseeds,2021-2022,120138.14,176607.06,1.47
+Maharashtra,Akola,Oilseeds,2021-2022,241742.32,262636.82,1.09
+Maharashtra,Amravati,Oilseeds,2021-2022,252391.53,263149.04,1.04
+Maharashtra,Beed,Oilseeds,2021-2022,301620.99,277923.5,0.92
+Maharashtra,Bhandara,Oilseeds,2021-2022,2789.71,1459.41,0.52
+Maharashtra,Buldhana,Oilseeds,2021-2022,455536.38,761462.68,1.67
+Maharashtra,Chandrapur,Oilseeds,2021-2022,87752.94,123961.97,1.41
+Maharashtra,Chhatrapati Sambhajinagar,Oilseeds,2021-2022,33311.92,23228.05,0.7
+Maharashtra,Dharashiv,Oilseeds,2021-2022,296736.69,306772.79,1.03
+Maharashtra,Dhule,Oilseeds,2021-2022,47236.87,42906.52,0.91
+Maharashtra,Gadchiroli,Oilseeds,2021-2022,3492.48,1629.16,0.47
+Maharashtra,Gondia,Oilseeds,2021-2022,4570.25,1217.48,0.27
+Maharashtra,Hingoli,Oilseeds,2021-2022,259907.5,246046.75,0.95
+Maharashtra,Jalgaon,Oilseeds,2021-2022,39382.34,25453.62,0.65
+Maharashtra,Jalna,Oilseeds,2021-2022,201781.63,254989.58,1.26
+Maharashtra,Kolhapur,Oilseeds,2021-2022,87690.89,171196.79,1.95
+Maharashtra,Latur,Oilseeds,2021-2022,493942.73,593729.5,1.2
+Maharashtra,Nagpur,Oilseeds,2021-2022,149241.33,114344.91,0.77
+Maharashtra,Nanded,Oilseeds,2021-2022,440583.22,355143.54,0.81
+Maharashtra,Nandurbar,Oilseeds,2021-2022,42166.48,49427.18,1.17
+Maharashtra,Nashik,Oilseeds,2021-2022,117141.97,187591.59,1.6
+Maharashtra,Palghar,Oilseeds,2021-2022,1176.85,563.72,0.48
+Maharashtra,Parbhani,Oilseeds,2021-2022,270038.38,116059.39,0.43
+Maharashtra,Pune,Oilseeds,2021-2022,60086.85,112717.24,1.88
+Maharashtra,Raigad,Oilseeds,2021-2022,71.2,58.42,0.82
+Maharashtra,Ratnagiri,Oilseeds,2021-2022,181.62,142.83,0.79
+Maharashtra,Sangli,Oilseeds,2021-2022,91069.62,132285.93,1.45
+Maharashtra,Satara,Oilseeds,2021-2022,117336.84,246812.4,2.1
+Maharashtra,Sindhudurg,Oilseeds,2021-2022,1544.45,2544.12,1.65
+Maharashtra,Solapur,Oilseeds,2021-2022,64420.95,72620.47,1.13
+Maharashtra,Thane,Oilseeds,2021-2022,218.8,163.33,0.75
+Maharashtra,Wardha,Oilseeds,2021-2022,125548.49,201908.58,1.61
+Maharashtra,Washim,Oilseeds,2021-2022,319874.23,525395.63,1.64
+Maharashtra,Yavatmal,Oilseeds,2021-2022,302747.04,302029.88,1.0
+Telangana,Adilabad,Oilseeds,2021-2022,42167.0,75498.0,1.79
+Telangana,Bhadradri,Oilseeds,2021-2022,3484.0,8658.0,2.49
+Telangana,Jagitial,Oilseeds,2021-2022,12814.0,11328.0,0.88
+Telangana,Jangoan,Oilseeds,2021-2022,1669.0,2102.0,1.26
+Telangana,Jayashankar,Oilseeds,2021-2022,239.0,399.0,1.67
+Telangana,Jogulamba,Oilseeds,2021-2022,13890.0,28665.0,2.06
+Telangana,Kamareddy,Oilseeds,2021-2022,35322.0,61759.0,1.75
+Telangana,Karimnagar,Oilseeds,2021-2022,2079.0,4195.0,2.02
+Telangana,Khammam,Oilseeds,2021-2022,1572.0,2093.0,1.33
+Telangana,Komaram bheem asifabad,Oilseeds,2021-2022,1792.0,2309.0,1.29
+Telangana,Mahabubabad,Oilseeds,2021-2022,1689.0,2575.0,1.52
+Telangana,Mahbubnagar,Oilseeds,2021-2022,9852.0,26843.0,2.72
+Telangana,Mancherial,Oilseeds,2021-2022,897.0,1479.0,1.65
+Telangana,Medak,Oilseeds,2021-2022,2910.0,4554.0,1.56
+Telangana,Medchal,Oilseeds,2021-2022,38.0,53.0,1.39
+Telangana,Mulugu,Oilseeds,2021-2022,542.0,547.0,1.01
+Telangana,Nagarkurnool,Oilseeds,2021-2022,62061.0,133038.0,2.14
+Telangana,Nalgonda,Oilseeds,2021-2022,15433.0,36187.0,2.34
+Telangana,Narayanapet,Oilseeds,2021-2022,7786.0,14712.0,1.89
+Telangana,Nirmal,Oilseeds,2021-2022,42413.0,54787.0,1.29
+Telangana,Nizamabad,Oilseeds,2021-2022,37466.0,70577.0,1.88
+Telangana,Peddapalli,Oilseeds,2021-2022,884.0,1191.0,1.35
+Telangana,Rajanna,Oilseeds,2021-2022,1566.0,1908.0,1.22
+Telangana,Rangareddi,Oilseeds,2021-2022,6890.0,12381.0,1.8
+Telangana,Sangareddy,Oilseeds,2021-2022,27954.0,39687.0,1.42
+Telangana,Siddipet,Oilseeds,2021-2022,5927.0,9127.0,1.54
+Telangana,Suryapet,Oilseeds,2021-2022,2019.0,4367.0,2.16
+Telangana,Vikarabad,Oilseeds,2021-2022,10002.0,20731.0,2.07
+Telangana,Wanaparthy,Oilseeds,2021-2022,14441.0,35080.0,2.43
+Telangana,Warangal,Oilseeds,2021-2022,3338.0,7240.0,2.17
+Telangana,Warangal urban,Oilseeds,2021-2022,2596.0,2608.0,1.0
+Telangana,Yadadri,Oilseeds,2021-2022,987.0,1955.0,1.98
+Karnataka,Bagalkot,Oilseeds,2022-2023,59392.0,81552.39,1.37
+Karnataka,Bangalore rural,Oilseeds,2022-2023,143.0,175.22,1.23
+Karnataka,Belgaum,Oilseeds,2022-2023,138371.0,143258.0,1.04
+Karnataka,Bellary,Oilseeds,2022-2023,7215.0,9005.99,1.25
+Karnataka,Bengaluru urban,Oilseeds,2022-2023,67.0,39.22,0.59
+Karnataka,Bidar,Oilseeds,2022-2023,274487.0,363511.0,1.32
+Karnataka,Bijapur,Oilseeds,2022-2023,56216.0,51217.0,0.91
+Karnataka,Chamarajanagar,Oilseeds,2022-2023,22420.0,24818.44,1.11
+Karnataka,Chikballapur,Oilseeds,2022-2023,19379.0,18064.22,0.93
+Karnataka,Chikmagalur,Oilseeds,2022-2023,5219.0,4717.0,0.9
+Karnataka,Chitradurga,Oilseeds,2022-2023,134850.0,106678.69,0.79
+Karnataka,Davangere,Oilseeds,2022-2023,7103.0,8816.0,1.24
+Karnataka,Dharwad,Oilseeds,2022-2023,71010.0,63648.23,0.9
+Karnataka,Gadag,Oilseeds,2022-2023,67556.0,58317.46,0.86
+Karnataka,Gulbarga,Oilseeds,2022-2023,78101.0,94055.35,1.2
+Karnataka,Hassan,Oilseeds,2022-2023,4515.0,3244.0,0.72
+Karnataka,Haveri,Oilseeds,2022-2023,38259.0,26778.0,0.7
+Karnataka,Kolar,Oilseeds,2022-2023,3781.0,4338.56,1.15
+Karnataka,Koppal,Oilseeds,2022-2023,67245.0,95546.33,1.42
+Karnataka,Mandya,Oilseeds,2022-2023,5660.0,3716.25,0.66
+Karnataka,Mysore,Oilseeds,2022-2023,6116.0,3842.0,0.63
+Karnataka,Raichur,Oilseeds,2022-2023,52756.0,92924.33,1.76
+Karnataka,Ramanagara,Oilseeds,2022-2023,1404.0,1419.33,1.01
+Karnataka,Shimoga,Oilseeds,2022-2023,279.0,396.0,1.42
+Karnataka,Tumkur,Oilseeds,2022-2023,52285.0,40545.4,0.78
+Karnataka,Udupi,Oilseeds,2022-2023,1581.0,3260.0,2.06
+Karnataka,Uttar kannad,Oilseeds,2022-2023,1121.0,2444.0,2.18
+Karnataka,Vijayanagar,Oilseeds,2022-2023,57914.0,79303.0,1.37
+Karnataka,Yadgir,Oilseeds,2022-2023,22832.0,45713.22,2.0
+Maharashtra,Ahilyanagar,Oilseeds,2022-2023,123858.41,216180.46,1.75
+Maharashtra,Akola,Oilseeds,2022-2023,247774.24,394983.93,1.59
+Maharashtra,Amravati,Oilseeds,2022-2023,259214.61,182282.95,0.7
+Maharashtra,Beed,Oilseeds,2022-2023,354504.0,518655.78,1.46
+Maharashtra,Bhandara,Oilseeds,2022-2023,5366.82,1995.65,0.37
+Maharashtra,Buldhana,Oilseeds,2022-2023,453180.18,801245.17,1.77
+Maharashtra,Chandrapur,Oilseeds,2022-2023,93575.15,112495.17,1.2
+Maharashtra,Chhatrapati Sambhajinagar,Oilseeds,2022-2023,41571.58,34607.72,0.83
+Maharashtra,Dharashiv,Oilseeds,2022-2023,460532.36,514414.83,1.12
+Maharashtra,Dhule,Oilseeds,2022-2023,43240.94,56906.32,1.32
+Maharashtra,Gadchiroli,Oilseeds,2022-2023,3289.1,1218.97,0.37
+Maharashtra,Gondia,Oilseeds,2022-2023,4584.44,1354.95,0.3
+Maharashtra,Hingoli,Oilseeds,2022-2023,261893.97,397238.2,1.52
+Maharashtra,Jalgaon,Oilseeds,2022-2023,36783.71,48250.38,1.31
+Maharashtra,Jalna,Oilseeds,2022-2023,212030.44,359488.82,1.7
+Maharashtra,Kolhapur,Oilseeds,2022-2023,81684.2,147535.17,1.81
+Maharashtra,Latur,Oilseeds,2022-2023,504253.17,546875.02,1.08
+Maharashtra,Nagpur,Oilseeds,2022-2023,87612.1,103006.48,1.18
+Maharashtra,Nanded,Oilseeds,2022-2023,456225.04,552955.87,1.21
+Maharashtra,Nandurbar,Oilseeds,2022-2023,39386.54,53826.77,1.37
+Maharashtra,Nashik,Oilseeds,2022-2023,129558.38,208518.82,1.61
+Maharashtra,Palghar,Oilseeds,2022-2023,2220.75,956.91,0.43
+Maharashtra,Parbhani,Oilseeds,2022-2023,277932.3,424935.8,1.53
+Maharashtra,Pune,Oilseeds,2022-2023,58287.75,131911.78,2.26
+Maharashtra,Raigad,Oilseeds,2022-2023,36.3,141.99,3.91
+Maharashtra,Ratnagiri,Oilseeds,2022-2023,126.16,134.77,1.07
+Maharashtra,Sangli,Oilseeds,2022-2023,75944.75,104547.11,1.38
+Maharashtra,Satara,Oilseeds,2022-2023,120906.35,236590.91,1.96
+Maharashtra,Sindhudurg,Oilseeds,2022-2023,3970.44,6171.03,1.55
+Maharashtra,Solapur,Oilseeds,2022-2023,98861.29,90781.78,0.92
+Maharashtra,Thane,Oilseeds,2022-2023,192.38,120.22,0.62
+Maharashtra,Wardha,Oilseeds,2022-2023,141366.17,168324.11,1.19
+Maharashtra,Washim,Oilseeds,2022-2023,313639.86,429896.97,1.37
+Maharashtra,Yavatmal,Oilseeds,2022-2023,297746.2,242453.32,0.81
+Telangana,Adilabad,Oilseeds,2022-2023,55258.0,87465.0,1.58
+Telangana,Bhadradri,Oilseeds,2022-2023,1996.0,6870.0,3.44
+Telangana,Jagitial,Oilseeds,2022-2023,5887.0,5496.0,0.93
+Telangana,Jangoan,Oilseeds,2022-2023,348.0,662.0,1.9
+Telangana,Jayashankar,Oilseeds,2022-2023,126.0,166.0,1.32
+Telangana,Jogulamba,Oilseeds,2022-2023,10576.0,20456.0,1.93
+Telangana,Kamareddy,Oilseeds,2022-2023,38979.0,53478.0,1.37
+Telangana,Karimnagar,Oilseeds,2022-2023,435.0,812.0,1.87
+Telangana,Khammam,Oilseeds,2022-2023,480.0,814.0,1.7
+Telangana,Komaram bheem asifabad,Oilseeds,2022-2023,4113.0,5133.0,1.25
+Telangana,Mahabubabad,Oilseeds,2022-2023,507.0,938.0,1.85
+Telangana,Mahbubnagar,Oilseeds,2022-2023,5416.0,9357.0,1.73
+Telangana,Mancherial,Oilseeds,2022-2023,192.0,361.0,1.88
+Telangana,Medak,Oilseeds,2022-2023,271.0,510.0,1.88
+Telangana,Medchal,Oilseeds,2022-2023,15.0,27.0,1.8
+Telangana,Mulugu,Oilseeds,2022-2023,534.0,1413.0,2.65
+Telangana,Nagarkurnool,Oilseeds,2022-2023,48594.0,121942.0,2.51
+Telangana,Nalgonda,Oilseeds,2022-2023,8557.0,19751.0,2.31
+Telangana,Narayanapet,Oilseeds,2022-2023,5414.0,10417.0,1.92
+Telangana,Nirmal,Oilseeds,2022-2023,49663.0,87953.0,1.77
+Telangana,Nizamabad,Oilseeds,2022-2023,31725.0,52261.0,1.65
+Telangana,Peddapalli,Oilseeds,2022-2023,112.0,132.0,1.18
+Telangana,Rajanna,Oilseeds,2022-2023,256.0,366.0,1.43
+Telangana,Rangareddi,Oilseeds,2022-2023,4578.0,7665.0,1.67
+Telangana,Sangareddy,Oilseeds,2022-2023,36214.0,53740.0,1.48
+Telangana,Siddipet,Oilseeds,2022-2023,3646.0,7405.0,2.03
+Telangana,Suryapet,Oilseeds,2022-2023,594.0,1181.0,1.99
+Telangana,Vikarabad,Oilseeds,2022-2023,10877.0,18507.0,1.7
+Telangana,Wanaparthy,Oilseeds,2022-2023,12764.0,35247.0,2.76
+Telangana,Warangal,Oilseeds,2022-2023,1590.0,4488.0,2.82
+Telangana,Warangal urban,Oilseeds,2022-2023,584.0,912.0,1.56
+Telangana,Yadadri,Oilseeds,2022-2023,87.0,149.0,1.71
+Karnataka,Bagalkot,Pulses,2020-2021,125520.0,92629.22,0.74
+Karnataka,Bangalore rural,Pulses,2020-2021,2762.0,2452.0,0.89
+Karnataka,Belgaum,Pulses,2020-2021,184644.0,115302.0,0.62
+Karnataka,Bellary,Pulses,2020-2021,33019.0,23709.0,0.72
+Karnataka,Bengaluru urban,Pulses,2020-2021,1682.0,1271.0,0.76
+Karnataka,Bidar,Pulses,2020-2021,273366.0,194819.43,0.71
+Karnataka,Bijapur,Pulses,2020-2021,577926.0,259674.0,0.45
+Karnataka,Chamarajanagar,Pulses,2020-2021,27580.0,20893.0,0.76
+Karnataka,Chikballapur,Pulses,2020-2021,9150.0,6814.22,0.74
+Karnataka,Chikmagalur,Pulses,2020-2021,15504.0,13382.0,0.86
+Karnataka,Chitradurga,Pulses,2020-2021,46330.0,30680.0,0.66
+Karnataka,Dakshin kannad,Pulses,2020-2021,11.0,5.0,0.45
+Karnataka,Davangere,Pulses,2020-2021,8808.0,4585.45,0.52
+Karnataka,Dharwad,Pulses,2020-2021,174025.0,83011.0,0.48
+Karnataka,Gadag,Pulses,2020-2021,247280.0,80688.0,0.33
+Karnataka,Gulbarga,Pulses,2020-2021,730114.0,732026.0,1.0
+Karnataka,Hassan,Pulses,2020-2021,12680.0,5831.49,0.46
+Karnataka,Haveri,Pulses,2020-2021,30289.0,16830.0,0.56
+Karnataka,Kodagu,Pulses,2020-2021,12.0,5.0,0.42
+Karnataka,Kolar,Pulses,2020-2021,10925.0,8893.0,0.81
+Karnataka,Koppal,Pulses,2020-2021,137280.0,61090.0,0.45
+Karnataka,Mandya,Pulses,2020-2021,18113.0,11653.74,0.64
+Karnataka,Mysore,Pulses,2020-2021,95979.0,49718.0,0.52
+Karnataka,Raichur,Pulses,2020-2021,189492.0,131959.0,0.7
+Karnataka,Ramanagara,Pulses,2020-2021,7947.0,6382.0,0.8
+Karnataka,Shimoga,Pulses,2020-2021,2341.0,858.0,0.37
+Karnataka,Tumkur,Pulses,2020-2021,36123.0,14808.3,0.41
+Karnataka,Udupi,Pulses,2020-2021,2817.0,1563.0,0.55
+Karnataka,Uttar kannad,Pulses,2020-2021,6231.0,3750.0,0.6
+Karnataka,Yadgir,Pulses,2020-2021,110083.0,87141.0,0.79
+Maharashtra,Ahilyanagar,Pulses,2020-2021,236443.14,184388.44,0.78
+Maharashtra,Akola,Pulses,2020-2021,173665.74,151805.45,0.87
+Maharashtra,Amravati,Pulses,2020-2021,226700.05,221718.21,0.98
+Maharashtra,Beed,Pulses,2020-2021,165519.08,192073.67,1.16
+Maharashtra,Bhandara,Pulses,2020-2021,52121.76,38659.03,0.74
+Maharashtra,Buldhana,Pulses,2020-2021,325331.28,402692.91,1.24
+Maharashtra,Chandrapur,Pulses,2020-2021,130915.45,139763.73,1.07
+Maharashtra,Chhatrapati Sambhajinagar,Pulses,2020-2021,122527.52,73802.46,0.6
+Maharashtra,Dharashiv,Pulses,2020-2021,351993.13,367760.51,1.04
+Maharashtra,Dhule,Pulses,2020-2021,131120.85,91645.91,0.7
+Maharashtra,Gadchiroli,Pulses,2020-2021,34080.84,18715.44,0.55
+Maharashtra,Gondia,Pulses,2020-2021,23470.79,18964.92,0.81
+Maharashtra,Hingoli,Pulses,2020-2021,220180.37,143318.54,0.65
+Maharashtra,Jalgaon,Pulses,2020-2021,159423.05,126097.64,0.79
+Maharashtra,Jalna,Pulses,2020-2021,129957.47,138867.63,1.07
+Maharashtra,Kolhapur,Pulses,2020-2021,10180.74,8436.53,0.83
+Maharashtra,Latur,Pulses,2020-2021,342663.32,396225.11,1.16
+Maharashtra,Nagpur,Pulses,2020-2021,136591.48,197181.28,1.44
+Maharashtra,Nanded,Pulses,2020-2021,274986.3,274976.49,1.0
+Maharashtra,Nandurbar,Pulses,2020-2021,79769.02,51743.41,0.65
+Maharashtra,Nashik,Pulses,2020-2021,91672.26,73946.41,0.81
+Maharashtra,Palghar,Pulses,2020-2021,10056.7,6021.62,0.6
+Maharashtra,Parbhani,Pulses,2020-2021,139004.24,134232.73,0.97
+Maharashtra,Pune,Pulses,2020-2021,113931.66,87750.36,0.77
+Maharashtra,Raigad,Pulses,2020-2021,12813.75,5297.92,0.41
+Maharashtra,Ratnagiri,Pulses,2020-2021,5534.97,4157.26,0.75
+Maharashtra,Sangli,Pulses,2020-2021,71823.57,62326.38,0.87
+Maharashtra,Satara,Pulses,2020-2021,86253.88,83615.44,0.97
+Maharashtra,Sindhudurg,Pulses,2020-2021,5413.0,3499.64,0.65
+Maharashtra,Solapur,Pulses,2020-2021,179276.36,126062.14,0.7
+Maharashtra,Thane,Pulses,2020-2021,3453.35,2659.72,0.77
+Maharashtra,Wardha,Pulses,2020-2021,119799.6,213641.9,1.78
+Maharashtra,Washim,Pulses,2020-2021,151951.3,174725.95,1.15
+Maharashtra,Yavatmal,Pulses,2020-2021,275955.9,227572.99,0.82
+Telangana,Adilabad,Pulses,2020-2021,57128.0,79869.0,1.4
+Telangana,Bhadradri,Pulses,2020-2021,3598.0,2852.0,0.79
+Telangana,Jagitial,Pulses,2020-2021,7869.0,8130.0,1.03
+Telangana,Jangoan,Pulses,2020-2021,12976.0,6905.0,0.53
+Telangana,Jayashankar,Pulses,2020-2021,821.0,754.0,0.92
+Telangana,Jogulamba,Pulses,2020-2021,27194.0,29689.0,1.09
+Telangana,Kamareddy,Pulses,2020-2021,61041.0,90808.0,1.49
+Telangana,Karimnagar,Pulses,2020-2021,3190.0,2459.0,0.77
+Telangana,Khammam,Pulses,2020-2021,19182.0,10875.0,0.57
+Telangana,Komaram bheem asifabad,Pulses,2020-2021,20162.0,20976.0,1.04
+Telangana,Mahabubabad,Pulses,2020-2021,9674.0,6009.0,0.62
+Telangana,Mahbubnagar,Pulses,2020-2021,29396.0,17561.0,0.6
+Telangana,Mancherial,Pulses,2020-2021,3310.0,3182.0,0.96
+Telangana,Medak,Pulses,2020-2021,10432.0,5716.0,0.55
+Telangana,Medchal,Pulses,2020-2021,913.0,719.0,0.79
+Telangana,Mulugu,Pulses,2020-2021,1199.0,1393.0,1.16
+Telangana,Nagarkurnool,Pulses,2020-2021,16977.0,14750.0,0.87
+Telangana,Nalgonda,Pulses,2020-2021,8505.0,6905.0,0.81
+Telangana,Narayanapet,Pulses,2020-2021,58228.0,48629.0,0.84
+Telangana,Nirmal,Pulses,2020-2021,33407.0,51667.0,1.55
+Telangana,Nizamabad,Pulses,2020-2021,12862.0,21764.0,1.69
+Telangana,Peddapalli,Pulses,2020-2021,732.0,591.0,0.81
+Telangana,Rajanna,Pulses,2020-2021,5358.0,4242.0,0.79
+Telangana,Rangareddi,Pulses,2020-2021,32230.0,26537.0,0.82
+Telangana,Sangareddy,Pulses,2020-2021,76855.0,56743.0,0.74
+Telangana,Siddipet,Pulses,2020-2021,21103.0,15175.0,0.72
+Telangana,Suryapet,Pulses,2020-2021,13441.0,7374.0,0.55
+Telangana,Vikarabad,Pulses,2020-2021,97195.0,84889.0,0.87
+Telangana,Wanaparthy,Pulses,2020-2021,21718.0,20536.0,0.95
+Telangana,Warangal,Pulses,2020-2021,3196.0,2589.0,0.81
+Telangana,Warangal urban,Pulses,2020-2021,5576.0,4622.0,0.83
+Telangana,Yadadri,Pulses,2020-2021,19223.0,14504.0,0.75
+Karnataka,Bagalkot,Pulses,2021-2022,148843.0,91841.0,0.62
+Karnataka,Bangalore rural,Pulses,2021-2022,1855.0,1243.21,0.67
+Karnataka,Belgaum,Pulses,2021-2022,199382.0,128925.0,0.65
+Karnataka,Bellary,Pulses,2021-2022,34665.0,22366.0,0.65
+Karnataka,Bengaluru urban,Pulses,2021-2022,1459.0,858.0,0.59
+Karnataka,Bidar,Pulses,2021-2022,269489.0,183690.0,0.68
+Karnataka,Bijapur,Pulses,2021-2022,570106.0,249645.0,0.44
+Karnataka,Chamarajanagar,Pulses,2021-2022,35084.0,23751.41,0.68
+Karnataka,Chikballapur,Pulses,2021-2022,7841.0,3807.0,0.49
+Karnataka,Chikmagalur,Pulses,2021-2022,13726.0,9033.41,0.66
+Karnataka,Chitradurga,Pulses,2021-2022,57645.0,30740.0,0.53
+Karnataka,Dakshin kannad,Pulses,2021-2022,4.0,2.21,0.55
+Karnataka,Davangere,Pulses,2021-2022,11433.0,7484.0,0.65
+Karnataka,Dharwad,Pulses,2021-2022,207467.0,139612.0,0.67
+Karnataka,Gadag,Pulses,2021-2022,214407.0,87780.0,0.41
+Karnataka,Gulbarga,Pulses,2021-2022,700205.0,619367.0,0.88
+Karnataka,Hassan,Pulses,2021-2022,21042.0,7273.0,0.35
+Karnataka,Haveri,Pulses,2021-2022,29596.0,16090.0,0.54
+Karnataka,Kodagu,Pulses,2021-2022,8.0,5.0,0.63
+Karnataka,Kolar,Pulses,2021-2022,10507.0,5381.49,0.51
+Karnataka,Koppal,Pulses,2021-2022,161882.0,60463.0,0.37
+Karnataka,Mandya,Pulses,2021-2022,21624.0,14223.0,0.66
+Karnataka,Mysore,Pulses,2021-2022,94381.0,45901.0,0.49
+Karnataka,Raichur,Pulses,2021-2022,181957.0,110265.0,0.61
+Karnataka,Ramanagara,Pulses,2021-2022,7230.0,5529.49,0.76
+Karnataka,Shimoga,Pulses,2021-2022,747.0,319.0,0.43
+Karnataka,Tumkur,Pulses,2021-2022,48509.0,12028.0,0.25
+Karnataka,Udupi,Pulses,2021-2022,2775.0,1503.35,0.54
+Karnataka,Uttar kannad,Pulses,2021-2022,3933.0,1420.84,0.36
+Karnataka,Yadgir,Pulses,2021-2022,122433.0,87176.0,0.71
+Maharashtra,Ahilyanagar,Pulses,2021-2022,248217.31,189956.24,0.77
+Maharashtra,Akola,Pulses,2021-2022,194799.95,288624.1,1.48
+Maharashtra,Amravati,Pulses,2021-2022,247235.62,252485.97,1.02
+Maharashtra,Beed,Pulses,2021-2022,186359.93,141656.58,0.76
+Maharashtra,Bhandara,Pulses,2021-2022,59003.65,34756.0,0.59
+Maharashtra,Buldhana,Pulses,2021-2022,356131.71,755116.44,2.12
+Maharashtra,Chandrapur,Pulses,2021-2022,118513.25,94782.07,0.8
+Maharashtra,Chhatrapati Sambhajinagar,Pulses,2021-2022,121821.93,83392.23,0.68
+Maharashtra,Dharashiv,Pulses,2021-2022,365544.15,312675.8,0.86
+Maharashtra,Dhule,Pulses,2021-2022,129521.05,90852.2,0.7
+Maharashtra,Gadchiroli,Pulses,2021-2022,36750.58,17524.84,0.48
+Maharashtra,Gondia,Pulses,2021-2022,22741.11,15705.16,0.69
+Maharashtra,Hingoli,Pulses,2021-2022,187263.81,195008.49,1.04
+Maharashtra,Jalgaon,Pulses,2021-2022,171173.21,157743.54,0.92
+Maharashtra,Jalna,Pulses,2021-2022,146393.28,144269.48,0.99
+Maharashtra,Kolhapur,Pulses,2021-2022,10740.31,8790.07,0.82
+Maharashtra,Latur,Pulses,2021-2022,367412.14,322032.08,0.88
+Maharashtra,Nagpur,Pulses,2021-2022,148978.83,219317.05,1.47
+Maharashtra,Nanded,Pulses,2021-2022,304373.2,232076.35,0.76
+Maharashtra,Nandurbar,Pulses,2021-2022,71185.11,51506.41,0.72
+Maharashtra,Nashik,Pulses,2021-2022,92824.67,77739.65,0.84
+Maharashtra,Palghar,Pulses,2021-2022,10843.27,6979.52,0.64
+Maharashtra,Parbhani,Pulses,2021-2022,147236.15,182526.81,1.24
+Maharashtra,Pune,Pulses,2021-2022,118593.51,113053.28,0.95
+Maharashtra,Raigad,Pulses,2021-2022,14934.32,6114.31,0.41
+Maharashtra,Ratnagiri,Pulses,2021-2022,6450.51,4814.78,0.75
+Maharashtra,Sangli,Pulses,2021-2022,69642.94,57053.17,0.82
+Maharashtra,Satara,Pulses,2021-2022,98558.33,109802.72,1.11
+Maharashtra,Sindhudurg,Pulses,2021-2022,5583.0,3696.27,0.66
+Maharashtra,Solapur,Pulses,2021-2022,196238.72,126028.86,0.64
+Maharashtra,Thane,Pulses,2021-2022,7985.14,6091.22,0.76
+Maharashtra,Wardha,Pulses,2021-2022,112005.23,159409.45,1.42
+Maharashtra,Washim,Pulses,2021-2022,170563.97,153864.39,0.9
+Maharashtra,Yavatmal,Pulses,2021-2022,275434.81,271566.82,0.99
+Telangana,Adilabad,Pulses,2021-2022,62199.0,77910.0,1.25
+Telangana,Bhadradri,Pulses,2021-2022,8730.0,8704.0,1.0
+Telangana,Jagitial,Pulses,2021-2022,8681.0,7965.0,0.92
+Telangana,Jangoan,Pulses,2021-2022,9700.0,4576.0,0.47
+Telangana,Jayashankar,Pulses,2021-2022,597.0,455.0,0.76
+Telangana,Jogulamba,Pulses,2021-2022,26593.0,23998.0,0.9
+Telangana,Kamareddy,Pulses,2021-2022,58952.0,72110.0,1.22
+Telangana,Karimnagar,Pulses,2021-2022,1965.0,1626.0,0.83
+Telangana,Khammam,Pulses,2021-2022,12857.0,8151.0,0.63
+Telangana,Komaram bheem asifabad,Pulses,2021-2022,21496.0,21741.0,1.01
+Telangana,Mahabubabad,Pulses,2021-2022,9064.0,5069.0,0.56
+Telangana,Mahbubnagar,Pulses,2021-2022,11451.0,6623.0,0.58
+Telangana,Mancherial,Pulses,2021-2022,3455.0,3799.0,1.1
+Telangana,Medak,Pulses,2021-2022,5341.0,3885.0,0.73
+Telangana,Medchal,Pulses,2021-2022,283.0,237.0,0.84
+Telangana,Mulugu,Pulses,2021-2022,887.0,634.0,0.71
+Telangana,Nagarkurnool,Pulses,2021-2022,12799.0,11518.0,0.9
+Telangana,Nalgonda,Pulses,2021-2022,6263.0,4415.0,0.7
+Telangana,Narayanapet,Pulses,2021-2022,47897.0,36632.0,0.76
+Telangana,Nirmal,Pulses,2021-2022,36213.0,50135.0,1.38
+Telangana,Nizamabad,Pulses,2021-2022,11390.0,15243.0,1.34
+Telangana,Peddapalli,Pulses,2021-2022,1184.0,1176.0,0.99
+Telangana,Rajanna,Pulses,2021-2022,3514.0,3501.0,1.0
+Telangana,Rangareddi,Pulses,2021-2022,17654.0,9977.0,0.57
+Telangana,Sangareddy,Pulses,2021-2022,69947.0,67622.0,0.97
+Telangana,Siddipet,Pulses,2021-2022,12501.0,9312.0,0.74
+Telangana,Suryapet,Pulses,2021-2022,6371.0,3777.0,0.59
+Telangana,Vikarabad,Pulses,2021-2022,90077.0,73150.0,0.81
+Telangana,Wanaparthy,Pulses,2021-2022,20348.0,28957.0,1.42
+Telangana,Warangal,Pulses,2021-2022,2152.0,1516.0,0.7
+Telangana,Warangal urban,Pulses,2021-2022,3074.0,2020.0,0.66
+Telangana,Yadadri,Pulses,2021-2022,12156.0,10291.0,0.85
+Karnataka,Bagalkot,Pulses,2022-2023,117949.0,79332.0,0.67
+Karnataka,Bangalore rural,Pulses,2022-2023,1312.0,823.28,0.63
+Karnataka,Belgaum,Pulses,2022-2023,179423.0,109766.0,0.61
+Karnataka,Bellary,Pulses,2022-2023,9865.0,5399.0,0.55
+Karnataka,Bengaluru urban,Pulses,2022-2023,947.0,600.45,0.63
+Karnataka,Bidar,Pulses,2022-2023,222718.0,184201.36,0.83
+Karnataka,Bijapur,Pulses,2022-2023,434851.0,295882.0,0.68
+Karnataka,Chamarajanagar,Pulses,2022-2023,21063.0,15397.0,0.73
+Karnataka,Chikballapur,Pulses,2022-2023,4926.0,3099.0,0.63
+Karnataka,Chikmagalur,Pulses,2022-2023,15243.0,7693.0,0.5
+Karnataka,Chitradurga,Pulses,2022-2023,47393.0,31332.28,0.66
+Karnataka,Dakshin kannad,Pulses,2022-2023,8.0,3.36,0.42
+Karnataka,Davangere,Pulses,2022-2023,8373.0,4747.0,0.57
+Karnataka,Dharwad,Pulses,2022-2023,258561.0,152219.0,0.59
+Karnataka,Gadag,Pulses,2022-2023,284431.0,122117.0,0.43
+Karnataka,Gulbarga,Pulses,2022-2023,587670.0,519117.0,0.88
+Karnataka,Hassan,Pulses,2022-2023,27430.0,10239.0,0.37
+Karnataka,Haveri,Pulses,2022-2023,17657.0,9705.0,0.55
+Karnataka,Kodagu,Pulses,2022-2023,1.0,1.0,1.0
+Karnataka,Kolar,Pulses,2022-2023,7953.0,6119.45,0.77
+Karnataka,Koppal,Pulses,2022-2023,178107.0,65788.0,0.37
+Karnataka,Mandya,Pulses,2022-2023,27097.0,14305.0,0.53
+Karnataka,Mysore,Pulses,2022-2023,84102.0,37641.0,0.45
+Karnataka,Raichur,Pulses,2022-2023,142124.0,90080.0,0.63
+Karnataka,Ramanagara,Pulses,2022-2023,5432.0,5094.0,0.94
+Karnataka,Shimoga,Pulses,2022-2023,188.0,86.0,0.46
+Karnataka,Tumkur,Pulses,2022-2023,58500.0,16100.0,0.28
+Karnataka,Udupi,Pulses,2022-2023,2781.0,1459.36,0.52
+Karnataka,Uttar kannad,Pulses,2022-2023,2939.0,1198.36,0.41
+Karnataka,Vijayanagar,Pulses,2022-2023,21833.0,12003.0,0.55
+Karnataka,Yadgir,Pulses,2022-2023,59766.0,36895.0,0.62
+Maharashtra,Ahilyanagar,Pulses,2022-2023,231034.24,211898.99,0.92
+Maharashtra,Akola,Pulses,2022-2023,198874.58,182754.87,0.92
+Maharashtra,Amravati,Pulses,2022-2023,257155.42,155374.84,0.6
+Maharashtra,Beed,Pulses,2022-2023,294343.0,283852.19,0.96
+Maharashtra,Bhandara,Pulses,2022-2023,56788.14,29751.28,0.52
+Maharashtra,Buldhana,Pulses,2022-2023,319724.06,297100.83,0.93
+Maharashtra,Chandrapur,Pulses,2022-2023,142895.91,186623.34,1.31
+Maharashtra,Chhatrapati Sambhajinagar,Pulses,2022-2023,111853.19,71075.81,0.64
+Maharashtra,Dharashiv,Pulses,2022-2023,364884.97,302957.75,0.83
+Maharashtra,Dhule,Pulses,2022-2023,60414.47,36691.88,0.61
+Maharashtra,Gadchiroli,Pulses,2022-2023,25026.54,12066.72,0.48
+Maharashtra,Gondia,Pulses,2022-2023,21690.11,16118.84,0.74
+Maharashtra,Hingoli,Pulses,2022-2023,220294.53,220118.46,1.0
+Maharashtra,Jalgaon,Pulses,2022-2023,149862.1,129118.79,0.86
+Maharashtra,Jalna,Pulses,2022-2023,184511.81,203382.35,1.1
+Maharashtra,Kolhapur,Pulses,2022-2023,10688.26,9332.95,0.87
+Maharashtra,Latur,Pulses,2022-2023,396062.4,300708.42,0.76
+Maharashtra,Nagpur,Pulses,2022-2023,151376.49,191040.29,1.26
+Maharashtra,Nanded,Pulses,2022-2023,383350.33,370663.0,0.97
+Maharashtra,Nandurbar,Pulses,2022-2023,51321.16,36545.73,0.71
+Maharashtra,Nashik,Pulses,2022-2023,59130.31,51345.31,0.87
+Maharashtra,Palghar,Pulses,2022-2023,11073.38,7072.89,0.64
+Maharashtra,Parbhani,Pulses,2022-2023,244508.69,272849.55,1.12
+Maharashtra,Pune,Pulses,2022-2023,55949.63,47639.03,0.85
+Maharashtra,Raigad,Pulses,2022-2023,14942.5,6003.17,0.4
+Maharashtra,Ratnagiri,Pulses,2022-2023,7431.47,5688.5,0.77
+Maharashtra,Sangli,Pulses,2022-2023,65249.56,49953.65,0.77
+Maharashtra,Satara,Pulses,2022-2023,98092.82,109269.24,1.11
+Maharashtra,Sindhudurg,Pulses,2022-2023,6043.0,3804.16,0.63
+Maharashtra,Solapur,Pulses,2022-2023,210794.27,125105.04,0.59
+Maharashtra,Thane,Pulses,2022-2023,8208.42,6868.54,0.84
+Maharashtra,Wardha,Pulses,2022-2023,163014.3,168450.81,1.03
+Maharashtra,Washim,Pulses,2022-2023,159715.26,142104.99,0.89
+Maharashtra,Yavatmal,Pulses,2022-2023,286553.46,154327.34,0.54
+Telangana,Adilabad,Pulses,2022-2023,75502.0,101531.0,1.34
+Telangana,Bhadradri,Pulses,2022-2023,4483.0,4244.0,0.95
+Telangana,Jagitial,Pulses,2022-2023,2133.0,1675.0,0.79
+Telangana,Jangoan,Pulses,2022-2023,3313.0,1575.0,0.48
+Telangana,Jayashankar,Pulses,2022-2023,193.0,184.0,0.95
+Telangana,Jogulamba,Pulses,2022-2023,15288.0,17967.0,1.18
+Telangana,Kamareddy,Pulses,2022-2023,44991.0,64669.0,1.44
+Telangana,Karimnagar,Pulses,2022-2023,576.0,343.0,0.6
+Telangana,Khammam,Pulses,2022-2023,6314.0,4710.0,0.75
+Telangana,Komaram bheem asifabad,Pulses,2022-2023,21030.0,21962.0,1.04
+Telangana,Mahabubabad,Pulses,2022-2023,4491.0,2899.0,0.65
+Telangana,Mahbubnagar,Pulses,2022-2023,5062.0,4119.0,0.81
+Telangana,Mancherial,Pulses,2022-2023,1463.0,1370.0,0.94
+Telangana,Medak,Pulses,2022-2023,2136.0,1318.0,0.62
+Telangana,Medchal,Pulses,2022-2023,73.0,66.0,0.9
+Telangana,Mulugu,Pulses,2022-2023,599.0,430.0,0.72
+Telangana,Nagarkurnool,Pulses,2022-2023,7300.0,8760.0,1.2
+Telangana,Nalgonda,Pulses,2022-2023,2407.0,2021.0,0.84
+Telangana,Narayanapet,Pulses,2022-2023,25893.0,20008.0,0.77
+Telangana,Nirmal,Pulses,2022-2023,32023.0,49353.0,1.54
+Telangana,Nizamabad,Pulses,2022-2023,9222.0,15467.0,1.68
+Telangana,Peddapalli,Pulses,2022-2023,370.0,313.0,0.85
+Telangana,Rajanna,Pulses,2022-2023,1089.0,885.0,0.81
+Telangana,Rangareddi,Pulses,2022-2023,7664.0,6213.0,0.81
+Telangana,Sangareddy,Pulses,2022-2023,59645.0,61902.0,1.04
+Telangana,Siddipet,Pulses,2022-2023,6623.0,6139.0,0.93
+Telangana,Suryapet,Pulses,2022-2023,2476.0,1538.0,0.62
+Telangana,Vikarabad,Pulses,2022-2023,81976.0,69503.0,0.85
+Telangana,Wanaparthy,Pulses,2022-2023,13518.0,22219.0,1.64
+Telangana,Warangal,Pulses,2022-2023,598.0,412.0,0.69
+Telangana,Warangal urban,Pulses,2022-2023,736.0,448.0,0.61
+Telangana,Yadadri,Pulses,2022-2023,4251.0,2916.0,0.69

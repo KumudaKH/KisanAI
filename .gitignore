@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+secrets.*
+
+# Local and system files
+.DS_Store
+Thumbs.db
+
+# Source data and non-government client-derived outputs are not published
+/data/raw/
+/data/imd_rainfall/
+/data/processed/agriculture_clean.csv
+/data/processed/disease_clean.csv
+/data/processed/market_clean.csv
